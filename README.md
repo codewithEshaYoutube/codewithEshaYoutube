@@ -11,11 +11,6 @@
   <p>🚀 Top 3% of Talented Software Developers</p>
   <p>👥 4K+ Followers on LinkedIn</p>
   <p>🌍 20+ International Projects Delivered</p>
-  <p>📈 Experienced Career Roadmap Coach</p>
-  <p>🏆 Microsoft Certified Developer</p>
-  <p>🛠️ 4+ Years of International Experience</p>
-  <p>📊 Expert in Full Project Management</p>
-  <p>💬 Communication is Key—Let’s Connect!</p>
 </div>
 
 <a href="https://www.upwork.com/freelancers/eeshat3" target="_blank" style="
@@ -36,11 +31,13 @@
 </a>
 
 <br /><br />
-<p style="text-align: center;">📍 Currently pursuing a Bachelor's in Software Engineering at Islamia University of Bahawalpur.</p>
+<p style="text-align: center;">📍 Contact for Premium Quality Website to Improve Your Business.</p>
 <br />
-<p style="text-align: center;">😍 Passionate about building innovative web apps, SaaS solutions, and AI-powered applications! Proficient in Python, JavaScript, React, React Native, Node.js, and Next.js.</p>
+<p style="text-align: center;">😍 Passionate about building innovative web apps, SaaS solutions, and AI-powered applications! Proficient in Python, JavaScript, React, React Native, Node.js, Next.js, PHP, Oracle, Laravel, Blade, and SQL.</p>
 <br />
 <p style="text-align: center;">🙌🏻 Delivering high-quality solutions in <strong>e-commerce, healthcare, finance, education, real estate, logistics, food delivery, and social media.</strong></p>
+<br />
+<p style="text-align: center;">👨‍💻 Bachelors of Software Engineering </strong></p>
 <br />
 <p style="text-align: center;">✨ I believe in strong client relationships and open communication for exceptional results.</p>
 
@@ -50,14 +47,20 @@
   <li>⚡ Timely Delivery: Projects completed on schedule.</li>
   <li>🔍 Attention to Detail: Meticulous testing for quality assurance.</li>
   <li>🤝 Collaborative Approach: Prioritizing communication to stay aligned.</li>
+  <li>📈 Experienced Career Roadmap Coach</li>
+  <li>🏆 Microsoft Certified Developer</li>
+  <li>🛠️ 4+ Years of International Experience</li>
+  <li>📊 Expert in Full Project Management</li>
+  <li>💬 Communication is Key—Let’s Connect!</li>
 </ul>
 
 <h3 style="text-align: center;">My Technical Expertise Includes:</h3>
 <div style="text-align: center;">
-  <p><strong>→ Web Development</strong> (JavaScript, Python, Node.js, TypeScript, HTML, React, Next.js)</p>
-  <p><strong>→ Mobile Development</strong> (Android, iOS, Cordova, Flutter, React Native)</p>
-  <p><strong>→ Web Server Setup</strong> (Nginx, Apache)</p>
-  <p><strong>→ Cloud Platforms</strong> (Azure, AWS, Google Cloud Platform)</p>
+  <p><strong>→ Web Development:</strong> JavaScript, Python, Node.js, TypeScript, HTML, React, Next.js</p>
+  <p><strong>→ Mobile Development:</strong> Android, iOS, Cordova, Flutter, React Native</p>
+  <p><strong>→ Web Server Setup:</strong> Nginx, Apache</p>
+  <p><strong>→ Cloud Platforms:</strong> Azure, AWS, Google Cloud Platform</p>
+  <p><strong>→ Other Skills:</strong> PHP, Oracle, Laravel, Blade, SQL</p>
 </div>
 <br /><br />
 
@@ -75,42 +78,45 @@
 
 <p style="text-align: center;"><strong>Let's build something extraordinary together! 🌟</strong></p> 
 <br /> 
+### Skills
 
-<h3 style="text-align: center;">Contact for Premium Quality Website to Improve Your Business</h3>
+<p align="left">
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+  </a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
+  </a>
+  <a href="https://www.php.net/manual/en/intro.laravel.php" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+  </a>
 
-<h3 style="text-align: center;">Skills</h3>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <div style="text-align: center;">
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-    </a>
-    <p>Python</p>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-    </a>
-    <p>JavaScript</p>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-    </a>
-    <p>React</p>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
-    </a>
-    <p>Node.js</p>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="WordPress" />
-    </a>
-    <p>WordPress</p>
-  </div>
-</div>
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="WordPress" />
+  </a>
+</p>
+
 
 <h3 style="text-align: center;">Connect with Me</h3>
 <p style="text-align: center;"> 
