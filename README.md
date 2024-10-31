@@ -5,20 +5,20 @@
 <h1>About Me 👨‍💻✨</h1>
 <hr />
 
-<div style="display: block; text-align: center;">
-  <p>🌟 **Hello, World! I'm Esha, a Passionate Tech Enthusiast**</p>
-  <p>💡 **Turning Ideas into Reality Through Code!**</p>
-  <p>🚀 **Top 3% of Talented Software Developers**</p>
-  <p>👥 **4K+ Followers on LinkedIn**</p>
-  <p>🌍 **20+ International Projects Delivered**</p>
-  <p>📈 **Experienced Career Roadmap Coach**</p>
-  <p>🏆 **Microsoft Certified Developer**</p>
-  <p>🛠️ **4+ Years of International Experience**</p>
-  <p>📊 **Expert in Full Project Management**</p>
-  <p>💬 **Communication is Key—Let’s Connect!**</p>
+<div style="text-align: center;">
+  <p>🌟 Hello, World! I'm Esha, a Passionate Tech Enthusiast</p>
+  <p>💡 Turning Ideas into Reality Through Code!</p>
+  <p>🚀 Top 3% of Talented Software Developers</p>
+  <p>👥 4K+ Followers on LinkedIn</p>
+  <p>🌍 20+ International Projects Delivered</p>
+  <p>📈 Experienced Career Roadmap Coach</p>
+  <p>🏆 Microsoft Certified Developer</p>
+  <p>🛠️ 4+ Years of International Experience</p>
+  <p>📊 Expert in Full Project Management</p>
+  <p>💬 Communication is Key—Let’s Connect!</p>
 </div>
 
-<a href="https://www.upwork.com/freelancers/~01636165d98c3a5679" target="_blank" style="
+<a href="https://www.upwork.com/freelancers/eeshat3" target="_blank" style="
   display: inline-block;
   background-color: #0077b5;
   color: white;
@@ -36,20 +36,20 @@
 </a>
 
 <br /><br />
-📍 **Currently pursuing a Bachelor's in Software Engineering at Islamia University of Bahawalpur.**
+📍 Currently pursuing a Bachelor's in Software Engineering at Islamia University of Bahawalpur.
 <br /><br />
-😍 **Passionate about building innovative web apps, SaaS solutions, and AI-powered applications!** My expertise lies in crafting robust site logic, and I thrive on challenges. Proficient in **Python, JavaScript, React, React Native, NodeJS, and Next.js.**
+😍 Passionate about building innovative web apps, SaaS solutions, and AI-powered applications! Proficient in Python, JavaScript, React, React Native, Node.js, and Next.js.
 <br /><br />
-🙌🏻 **Delivering high-quality solutions in** <strong>e-commerce, healthcare, finance, education, real estate, logistics, food delivery, and social media.</strong> My focus on user experience sets me apart in the tech landscape.
+🙌🏻 Delivering high-quality solutions in <strong>e-commerce, healthcare, finance, education, real estate, logistics, food delivery, and social media.</strong>
 <br /><br />
-✨ **I believe in strong client relationships and open communication for exceptional results.**
+✨ I believe in strong client relationships and open communication for exceptional results.
 
 <h3>Why Choose Me? 🤔</h3>
 <ul>
-  <li>🌈 **Creative Solutions**: I bring innovative ideas to the table that can transform your business.</li>
-  <li>⚡ **Timely Delivery**: I value deadlines and ensure your projects are completed on time.</li>
-  <li>🔍 **Attention to Detail**: I meticulously test and refine my work to ensure quality.</li>
-  <li>🤝 **Collaborative Approach**: I prioritize communication to make sure we're always on the same page.</li>
+  <li>🌈 Creative Solutions: Innovative ideas to transform your business.</li>
+  <li>⚡ Timely Delivery: Projects completed on schedule.</li>
+  <li>🔍 Attention to Detail: Meticulous testing for quality assurance.</li>
+  <li>🤝 Collaborative Approach: Prioritizing communication to stay aligned.</li>
 </ul>
 
 <h3>My Technical Expertise Includes:</h3>
@@ -68,7 +68,7 @@
 </div>
 <br /><br />
 
-💡 **I’ve successfully developed and launched multiple projects from scratch, managing both back-end and front-end codebases.**
+💡 I’ve successfully developed and launched multiple projects from scratch, managing both back-end and front-end codebases.
 <br />
 
 <h4>Personal Qualities:</h4>
@@ -86,17 +86,38 @@
 **Ready to discuss your web or mobile project needs? Let's connect!**
 
 <h3>Skills</h3>
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="WordPress" /></a>
-</p>
+<div style="display: flex; flex-direction: column;">
+  <div style="margin-bottom: 10px;">
+    <strong>Python</strong>
+    <div style="background-color: #e0e0e0; border-radius: 5px;">
+      <div style="width: 90%; background-color: #0077b5; height: 10px; border-radius: 5px;"></div>
+    </div>
+  </div>
+  <div style="margin-bottom: 10px;">
+    <strong>JavaScript</strong>
+    <div style="background-color: #e0e0e0; border-radius: 5px;">
+      <div style="width: 85%; background-color: #0077b5; height: 10px; border-radius: 5px;"></div>
+    </div>
+  </div>
+  <div style="margin-bottom: 10px;">
+    <strong>React</strong>
+    <div style="background-color: #e0e0e0; border-radius: 5px;">
+      <div style="width: 80%; background-color: #0077b5; height: 10px; border-radius: 5px;"></div>
+    </div>
+  </div>
+  <div style="margin-bottom: 10px;">
+    <strong>Node.js</strong>
+    <div style="background-color: #e0e0e0; border-radius: 5px;">
+      <div style="width: 75%; background-color: #0077b5; height: 10px; border-radius: 5px;"></div>
+    </div>
+  </div>
+  <div style="margin-bottom: 10px;">
+    <strong>WordPress</strong>
+    <div style="background-color: #e0e0e0; border-radius: 5px;">
+      <div style="width: 70%; background-color: #0077b5; height: 10px; border-radius: 5px;"></div>
+    </div>
+  </div>
+</div>
 
 <h3>Connect with Me</h3>
 <p align="left"> 
