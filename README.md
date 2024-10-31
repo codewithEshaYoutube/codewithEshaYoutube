@@ -36,16 +36,16 @@
 </a>
 
 <br /><br />
-📍 Currently pursuing a Bachelor's in Software Engineering at Islamia University of Bahawalpur.
-<br /><br />
-😍 Passionate about building innovative web apps, SaaS solutions, and AI-powered applications! Proficient in Python, JavaScript, React, React Native, Node.js, and Next.js.
-<br /><br />
-🙌🏻 Delivering high-quality solutions in <strong>e-commerce, healthcare, finance, education, real estate, logistics, food delivery, and social media.</strong>
-<br /><br />
-✨ I believe in strong client relationships and open communication for exceptional results.
+<p style="text-align: center;">📍 Currently pursuing a Bachelor's in Software Engineering at Islamia University of Bahawalpur.</p>
+<br />
+<p style="text-align: center;">😍 Passionate about building innovative web apps, SaaS solutions, and AI-powered applications! Proficient in Python, JavaScript, React, React Native, Node.js, and Next.js.</p>
+<br />
+<p style="text-align: center;">🙌🏻 Delivering high-quality solutions in <strong>e-commerce, healthcare, finance, education, real estate, logistics, food delivery, and social media.</strong></p>
+<br />
+<p style="text-align: center;">✨ I believe in strong client relationships and open communication for exceptional results.</p>
 
 <h3 style="text-align: center;">Why Choose Me? 🤔</h3>
-<ul style="text-align: center;">
+<ul style="text-align: center; list-style-type: none; padding: 0;">
   <li>🌈 Creative Solutions: Innovative ideas to transform your business.</li>
   <li>⚡ Timely Delivery: Projects completed on schedule.</li>
   <li>🔍 Attention to Detail: Meticulous testing for quality assurance.</li>
@@ -61,11 +61,11 @@
 </div>
 <br /><br />
 
-💡 I’ve successfully developed and launched multiple projects from scratch, managing both back-end and front-end codebases.
+<p style="text-align: center;">💡 I’ve successfully developed and launched multiple projects from scratch, managing both back-end and front-end codebases.</p>
 <br />
 
 <h4 style="text-align: center;">Personal Qualities:</h4>
-<ul style="text-align: center;">
+<ul style="text-align: center; list-style-type: none; padding: 0;">
   <li>🔑 High Integrity</li>  
   <li>🛠 Responsible</li>  
   <li>💬 Excellent Communication Skills</li>  
@@ -113,7 +113,7 @@
 </div>
 
 <h3 style="text-align: center;">Connect with Me</h3>
-<p align="center"> 
+<p style="text-align: center;"> 
   <a href="https://www.github.com/codewithEshaYoutube" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a> 
