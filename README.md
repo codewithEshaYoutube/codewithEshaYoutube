@@ -6,11 +6,12 @@
 <hr />
 
 <div style="text-align: center;">
-  <p>🌟 Hello, World! I'm Esha, a Passionate Tech Enthusiast</p>
+  <p>🌟 Hello, World! I'm Esha, a FULL STACK DEVELOPER</p>
   <p>💡 Turning Ideas into Reality Through Code!</p>
   <p>🚀 Top 3% of Talented Software Developers</p>
   <p>👥 4K+ Followers on LinkedIn</p>
   <p>🌍 20+ International Projects Delivered</p>
+ <p>✅ Click on 𝗜𝗡𝗩𝗜𝗧𝗘 or 𝗛𝗜𝗥𝗘 Button and let's discuss your project</p>
 </div>
 
 <a href="https://www.upwork.com/freelancers/eeshat3" target="_blank" style="
@@ -32,11 +33,11 @@
 
 <br /><br />
 <p style="text-align: center;">📍 Contact for Premium Quality Website to Improve Your Business.</p>
-<br />
+
 <p style="text-align: center;">😍 Passionate about building innovative web apps, SaaS solutions, and AI-powered applications! Proficient in Python, JavaScript, React, React Native, Node.js, Next.js, PHP, Oracle, Laravel, Blade, and SQL.</p>
-<br />
+
 <p style="text-align: center;">🙌🏻 Delivering high-quality solutions in <strong>e-commerce, healthcare, finance, education, real estate, logistics, food delivery, and social media.</strong></p>
-<br />
+
 <p style="text-align: center;">👨‍💻 Bachelors of Software Engineering </strong></p>
 <br />
 <p style="text-align: center;">✨ I believe in strong client relationships and open communication for exceptional results.</p>
