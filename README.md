@@ -108,6 +108,22 @@
 <br />
 <p style="text-align: center;">✨ I believe in strong client relationships and open communication for exceptional results.</p>
 
+<h3 style="text-align: center;">Connect with Me</h3>
+<p style="text-align: center;"> 
+  <a href="https://www.github.com/codewithEshaYoutube" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a> 
+  <a href="https://www.linkedin.com/in/esha-tariqdev" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a> 
+  <a href="https://stackoverflow.com/users/24487713/developer-esha" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
+  </a> 
+  <a href="https://twitter.com/yourprofile" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a>
+</p>
+
 <h3 style="text-align: center;">Why Choose Me? 🤔</h3>
 <ul style="text-align: center; list-style-type: none; padding: 0;">
   <li>🌈 Creative Solutions: Innovative ideas to transform your business.</li>
@@ -147,20 +163,4 @@
 <br /> 
 
 
-
-<h3 style="text-align: center;">Connect with Me</h3>
-<p style="text-align: center;"> 
-  <a href="https://www.github.com/codewithEshaYoutube" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a> 
-  <a href="https://www.linkedin.com/in/esha-tariqdev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a> 
-  <a href="https://stackoverflow.com/users/24487713/developer-esha" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-  </a> 
-  <a href="https://twitter.com/yourprofile" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-  </a>
-</p>
 
