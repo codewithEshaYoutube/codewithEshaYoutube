@@ -94,13 +94,11 @@
 
 <h2> Activity On GitHub:</h2>
 
-
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=codewithEshaYoutube&theme=dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=codewithEshaYoutube" alt="GitHub Streak" />
   </a>
 </p>
-
 
 <br /><br />
 <p style="text-align: center;">📍 Contact for Premium Quality Website to Improve Your Business.</p>
