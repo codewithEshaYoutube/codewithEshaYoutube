@@ -95,8 +95,7 @@
 <h2> Activity On GitHub:</h2>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=codewithEshaYoutube)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=codewithEshaYoutube)](https://git.io/streak-stats)
 
 
 <br /><br />
