@@ -95,10 +95,7 @@
 <h2> Activity On GitHub:</h2>
 
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithEshaYoutube&theme=tokyonight&hide_border=true" alt="GitHub Streaks" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=codewithEshaYoutube)](https://git.io/streak-stats)
 
 
 
