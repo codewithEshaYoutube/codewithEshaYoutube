@@ -95,8 +95,7 @@
 <h2> Activity On GitHub:</h2>
 
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=codewithEshaYoutube)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codewithEshaYoutube)](https://git.io/streak-stats)
 <p style="text-align: center;">📍 Contact for Premium Quality Website to Improve Your Business.</p>
 
 <p style="text-align: center;">😍 Passionate about building innovative web apps, SaaS solutions, and AI-powered applications! Proficient in Python, JavaScript, React, React Native, Node.js, Next.js, PHP, Oracle, Laravel, Blade, and SQL.</p>
