@@ -7,6 +7,21 @@
 <div style="display: flex; justify-content: center;">
   <img src="Professional LinkedIn Banner.png" width="800px" />
 </div>
+<div align="center"> 
+  <a href="mailto:tariqeesha321@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://github.com/codewithEshaYoutube" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/24487713/developer-esha" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/eeshat3" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+</div>
+
 <h2>Profile Views:</h2>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=codewithEshaYoutube&label=Profile%20views&color=e9164b&style=flat" alt="codewithEshaYoutube" /> 
@@ -102,38 +117,12 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codewithEshaYoutube)](https://git.io/streak-stats)
-<p style="text-align: center;">📍 Contact for Premium Quality Website to Improve Your Business.</p>
 
-<p style="text-align: center;">😍 Passionate about building innovative web apps, SaaS solutions, and AI-powered applications! Proficient in Python, JavaScript, React, React Native, Node.js, Next.js, PHP, Oracle, Laravel, Blade, and SQL.</p>
 
-<p style="text-align: center;">🙌🏻 Delivering high-quality solutions in <strong>e-commerce, healthcare, finance, education, real estate, logistics, food delivery, and social media.</strong></p>
-
-<p style="text-align: center;">👨‍💻 Bachelors of Software Engineering </strong></p>
-<br />
-<p style="text-align: center;">✨ I believe in strong client relationships and open communication for exceptional results.</p>
-
-<h3 style="text-align: center;">Connect with Me</h3>
-<p style="text-align: center;"> 
-  <a href="https://www.github.com/codewithEshaYoutube" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a> 
-  <a href="https://www.linkedin.com/in/esha-tariqdev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a> 
-  <a href="https://stackoverflow.com/users/24487713/developer-esha" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-  </a> 
-  <a href="https://twitter.com/yourprofile" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-  </a>
-</p>
 
 <h3 style="text-align: center;">Why Choose Me? 🤔</h3>
 <ul style="text-align: center; list-style-type: none; padding: 0;">
-  <li>🌈 Creative Solutions: Innovative ideas to transform your business.</li>
-  <li>⚡ Timely Delivery: Projects completed on schedule.</li>
-  <li>🔍 Attention to Detail: Meticulous testing for quality assurance.</li>
-  <li>🤝 Collaborative Approach: Prioritizing communication to stay aligned.</li>
+
   <li>📈 Experienced Career Roadmap Coach</li>
   <li>🏆 Microsoft Certified Developer</li>
   <li>🛠️ 4+ Years of International Experience</li>
@@ -151,20 +140,12 @@
 </div>
 <br /><br />
 
-<p style="text-align: center;">💡 I’ve successfully developed and launched multiple projects from scratch, managing both back-end and front-end codebases.</p>
-<br />
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
-<h4 style="text-align: center;">Personal Qualities:</h4>
-<ul style="text-align: center; list-style-type: none; padding: 0;">
-  <li>🔑 High Integrity</li>  
-  <li>🛠 Responsible</li>  
-  <li>💬 Excellent Communication Skills</li>  
-  <li>⚡ Uses Latest Technologies</li>  
-  <li>⏰ Timely and Efficient</li>
-</ul>
-
-<p style="text-align: center;"><strong>Let's build something extraordinary together! 🌟</strong></p> 
-<br /> 
-
+  <br/><br/><br/>
+</div>
 
 
