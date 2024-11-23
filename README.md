@@ -2,11 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Eesha+Tariq!;" />
 </h1>
 
-
-
 <div style="display: flex; justify-content: center;">
   <img src="Professional LinkedIn Banner.png" width="800px" />
 </div>
+
 <div align="center"> 
   <a href="mailto:tariqeesha321@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -22,8 +21,8 @@
   </a>
 </div>
 
-<h2>Profile Views:</h2>
-<p align="left"> 
+<h2 align="center">Profile Views:</h2>
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=codewithEshaYoutube&label=Profile%20views&color=e9164b&style=flat" alt="codewithEshaYoutube" /> 
 </p>
 
@@ -56,12 +55,11 @@
   🚀 Hire Me on Upwork
 </a>
 
-<h2 align="left">Skills:</h2>
-<p align="left">  
+<h2 align="center">Skills:</h2>
+<p align="center">  
   <strong>Languages and Frameworks:</strong><br>
 
-
-<p align="left">
+<p align="center">
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
   </a>
@@ -103,24 +101,22 @@
   </a>
 </p>
 
-<h2>Languages Used:</h2>
+<h2 align="center">Languages Used:</h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithEshaYoutube&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="codewithEshaYoutube" />
 </p><br>
+
 <h2 align="center">My Stats </h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=codewithEshaYoutube&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=codewithEshaYoutube&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=codewithEshaYoutube&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=codewithEshaYoutube&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=codewithEshaYoutube&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=codewithEshaYoutube&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-
 
 <h3 style="text-align: center;">Why Choose Me? 🤔</h3>
 <ul style="text-align: center; list-style-type: none; padding: 0;">
-
   <li>📈 Experienced Career Roadmap Coach</li>
   <li>🏆 Microsoft Certified Developer</li>
   <li>🛠️ 4+ Years of International Experience</li>
@@ -136,16 +132,16 @@
   <p><strong>→ Cloud Platforms:</strong> Azure, AWS, Google Cloud Platform</p>
   <p><strong>→ Other Skills:</strong> PHP, Oracle, Laravel, Blade, SQL</p>
 </div>
+
 <br /><br />
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-
   <br/><br/><br/>
 </div>
+
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=60&duration=6000&lines=Thanks+for+visiting!+✌;+shoot+me+massage+on+Linkedin!;" />
 </h3>
-
