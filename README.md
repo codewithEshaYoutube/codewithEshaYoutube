@@ -107,7 +107,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithEshaYoutube&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="codewithEshaYoutube" />
 </p><br>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">My Stats </h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=codewithEshaYoutube&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
