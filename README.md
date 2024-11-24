@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There I'm+Eesha+Tariq!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+I'm+Eesha+Tariq!;" />
 </h1>
+
 
 <div style="display: flex; justify-content: center;">
   <img src="Professional LinkedIn Banner.png" width="800px" />
