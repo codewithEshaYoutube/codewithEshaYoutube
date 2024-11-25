@@ -102,10 +102,6 @@
   </a>
 </p>
 
-<h2 align="center">Languages Used:</h2>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithEshaYoutube&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="codewithEshaYoutube" />
-</p><br>
 
 <h2 align="center">My Stats </h2>
 <br>
