@@ -9,9 +9,7 @@
 </div>
 
 <div align="center"> 
-     <a href="https://www.linkedin.com/in/esha-tariqdev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+     
  
   <a href="mailto:tariqeesha321@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -19,6 +17,9 @@
   <a href="https://github.com/codewithEshaYoutube" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/esha-tariqdev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <a href="https://stackoverflow.com/users/24487713/developer-esha" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
