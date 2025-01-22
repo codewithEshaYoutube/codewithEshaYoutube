@@ -4,7 +4,7 @@
  
  
 
-<div style="display: flex; justify-content: center;">
+ <div style="display: flex; justify-content: center;">
   <img src="Professional LinkedIn Banner.png" width="800px" />
 </div>
 
