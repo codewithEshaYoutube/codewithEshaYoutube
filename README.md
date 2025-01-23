@@ -141,13 +141,12 @@
 
   
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ObaidullahAzad/ObaidullahAzad/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithEshaYoutube/codewithEshaYoutube/refs/heads/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-  <br/><br/>
-  <h3>Visit my GitHub Profile: <a href="https://github.com/codewithEshaYoutube/" target="_blank">codewithEshaYoutube</a></h3>
+
   <br/><br/><br/>
 </div>
 
