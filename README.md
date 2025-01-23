@@ -149,7 +149,7 @@
     
 </p>
 
-![snake gif](https://raw.githubusercontent.com/codewithEshaYoutube/codewithEshaYoutube/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
 
