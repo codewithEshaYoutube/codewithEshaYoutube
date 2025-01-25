@@ -45,6 +45,16 @@
   <p>🌍 20+ International Projects Delivered</p>
  <p>✅ Click on 𝗜𝗡𝗩𝗜𝗧𝗘 or 𝗛𝗜𝗥𝗘 Button and let's discuss your project</p>
 </div>
+ ## Some Community Projects & Resources
+
+| Project :octocat:                                                                                           | Issues :bug:                                                                                                                                                                                                         | Open PRs :bell:                                                                                                                                                                                        | Closed PRs :fire:                                                                                                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Tech Books**](https://github.com/Ahmadjajja/LearnTechBooks)                                              | [![GitHub issues](https://img.shields.io/github/issues/Ahmadjajja/Learn-Blockchain-in-3-months?color=green&logo=github&style=flat)](https://github.com/Ahmadjajja/LearnTechBooks/issues)                             | [![GitHub PRs](https://img.shields.io/github/issues-pr/Ahmadjajja/LearnTechBooks?style=flat&logo=github)](https://github.com/Ahmadjajja/LearnTechBooks/pulls)                                          | [![AI Connectivity hackathon](https://img.shields.io/github/issues-pr-closed/Ahmadjajja/LearnTechBooks?style=flat&color=critical&logo=github)](https://github.com/Ahmadjajja/LearnTechBooks/pulls?q=is%3Apr+is%3Aclosed)                                         |
+
+<!--   ## Consistency👨‍💻
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadjajja&" alt="ahmadjajja" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadjajja&show_icons=true&locale=en&layout=compact" alt="ahmadjajja" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadjajja&show_icons=true&locale=en" alt="ahmadjajja" /></p>  -->
 
 <a href="https://www.upwork.com/freelancers/eeshat3" target="_blank" style="
   display: inline-block;
