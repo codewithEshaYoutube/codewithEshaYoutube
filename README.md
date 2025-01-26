@@ -155,6 +155,9 @@
  <a href="https://www.linkedin.com/posts/esha-tariqdev_mit2-techcompetition-codewarriors-activity-7287064089481154560-096R?utm_source=share&utm_medium=member_desktop">
     <img src="1737359179765.jpg" width="390px" />
   </a>
+   <a href="https://www.linkedin.com/posts/esha-tariqdev_hackathon-aiforconnectivity-wavetracker-activity-7289315188493721602-3qMM?utm_source=share&utm_medium=member_desktop">
+    <img src="AI for Connectivity Hackathon.webp" width="390px" />
+  </a>
   
     
 </p>
