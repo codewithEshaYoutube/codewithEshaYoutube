@@ -135,25 +135,8 @@
   <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=codewithEshaYoutube&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<h3 style="text-align: center;">Why Choose Me? 🤔</h3>
-<ul style="text-align: center; list-style-type: none; padding: 0;">
-  <li>📈 Experienced Career Roadmap Coach</li>
-  <li>🏆 Microsoft Certified Developer</li>
-  <li>🛠️ 4+ Years of International Experience</li>
-  <li>📊 Expert in Full Project Management</li>
-  <li>💬 Communication is Key—Let’s Connect!</li>
-</ul>
 
-<h3 style="text-align: center;">My Technical Expertise Includes:</h3>
-<div style="text-align: center;">
-  <p><strong>→ Web Development:</strong> JavaScript, Python, Node.js, TypeScript, HTML, React, Next.js</p>
-  <p><strong>→ Mobile Development:</strong> Android, iOS, Cordova, Flutter, React Native</p>
-  <p><strong>→ Web Server Setup:</strong> Nginx, Apache</p>
-  <p><strong>→ Cloud Platforms:</strong> Azure, AWS, Google Cloud Platform</p>
-  <p><strong>→ Other Skills:</strong> PHP, Oracle, Laravel, Blade, SQL</p>
-</div>
 
-<br /><br />
 
  # Completed International Hackathons🥇:
 
