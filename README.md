@@ -34,16 +34,15 @@
   <img src="https://komarev.com/ghpvc/?username=codewithEshaYoutube&label=Profile%20views&color=e9164b&style=flat" alt="codewithEshaYoutube" /> 
 </p>
 
-<h1 style="text-align: center;">About Me 👨‍💻✨</h1>
-<hr />
+
 
 <div style="text-align: center;">
-  <p>🌟 Hello, World! I'm Esha, a FULL STACK DEVELOPER</p>
-  <p>💡 Turning Ideas into Reality Through Code!</p>
-  <p>🚀 Top 3% of Talented Software Developers</p>
-  <p>👥 4K+ Followers on LinkedIn</p>
-  <p>🌍 20+ International Projects Delivered</p>
- <p>✅ Click on 𝗜𝗡𝗩𝗜𝗧𝗘 or 𝗛𝗜𝗥𝗘 Button and let's discuss your project</p>
+  <p>🌟 Hello, World! I'm Esha, a Tech_Trainer,Software Engineer</p>
+  <p>💡 Turning AI Ideas into Reality Through Code!</p>
+  <p>@icodeguru Training DSA and Python</p>
+  <p>@corvit Training Data Analytics using Python</p>
+  <p>👥 5K+ Followers on LinkedIn</p>
+  <p>🌍 3+ International Hackathons Completed</p>
 </div>
  ## Some Community Projects & Resources
 
