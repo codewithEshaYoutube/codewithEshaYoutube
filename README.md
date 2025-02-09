@@ -37,12 +37,13 @@
 
 
 <div style="text-align: center;">
-  <p>🌟 Hello, World! I'm Esha, a Tech_Trainer,Software Engineer</p>
-  <p>💡 Turning AI Ideas into Reality Through Code!</p>
-  <p>@icodeguru Training DSA and Python</p>
-  <p>@corvit Training Data Analytics using Python</p>
-  <p>👥 5K+ Followers on LinkedIn</p>
-  <p>🌍 3+ International Hackathons Completed</p>
+- 🌟 Hello, World! I'm Esha, a Tech_Trainer, Software Engineer
+- 💡 Turning AI Ideas into Reality Through Code!
+- [@icodeguru](https://icode.guru/) - Training DSA and Python
+- [@corvit](https://corvit.com/systems/) - Training Data Analytics using Python
+- 👥 5K+ Followers on LinkedIn
+- 🌍 3+ International Hackathons Completed
+
 </div>
  ## Some Community Projects & Resources
 
