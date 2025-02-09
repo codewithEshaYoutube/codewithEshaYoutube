@@ -159,8 +159,8 @@
     <img src="AI for Connectivity Hackathon.webp" width="390px" />
   </a>
   </a>
-   <a href="https://www.linkedin.com/posts/esha-tariqdev_hackathon-aiforconnectivity-wavetracker-activity-7289315188493721602-3qMM?utm_source=share&utm_medium=member_desktop">
-    <img src="AI for Connectivity Hackathon.webp" width="390px" />
+   <a href="https://www.linkedin.com/posts/esha-tariqdev_ai-generativeai-hackathon-activity-7294398940097994752-KYXY?utm_source=share&utm_medium=member_desktop">
+    <img src="AIstronauts Space Agents hackathon.webp" width="390px" />
   </a>
   
     
