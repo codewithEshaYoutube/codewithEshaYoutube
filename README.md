@@ -151,6 +151,10 @@
    <a href="https://www.linkedin.com/posts/esha-tariqdev_ai-generativeai-hackathon-activity-7294398940097994752-KYXY?utm_source=share&utm_medium=member_desktop">
     <img src="AIstronauts Space Agents hackathon.webp" width="390px" />
   </a>
+  <a href="https://www.linkedin.com/posts/esha-tariqdev_hiregeniusai-deepseekai-aijobs-activity-7296944638962114560-ajzC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
+    <img src="Deepseek_AI_hackathon.webp" width="390px" />
+  </a>
+  
   
     
 </p>
