@@ -47,7 +47,7 @@
 
 <p>👥 5K+ Followers on LinkedIn</p>
 
-<p>🌍 3+ International Hackathons Completed</p>
+<p>🌍 4+ International Hackathons Completed</p>
 
 
 </div>
