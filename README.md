@@ -43,7 +43,7 @@
 
 <p>💡 Turning AI Ideas into Reality Through Code!</p>
 
-<p><a href="https://icode.guru/">@icodeguru</a> - Training DSA and Python</p>
+<p><a href="https://icode.guru/">@icodeguru</a> - <a href="https://www.linkedin.com/posts/esha-tariqdev_dsa-python-leetcode-activity-7298787050143547394--u5K?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">Training</a> DSA and Python</p>
 
 <p><a href="https://corvit.com/systems/">@corvit</a> - Training Data Analytics using Python</p>
 
