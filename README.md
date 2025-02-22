@@ -37,21 +37,32 @@
 </p>
 
 
+# I'm Esha Tariq  
+### Tech Trainer | Software Engineer | AI Enthusiast  
+ 
 
-| TECH SESSIONS @icodeguru                                                                                         |
-| :---------------------------------------------------------------------------------------------------------- |
-| [Data Structures for Beginners](https://www.linkedin.com/posts/esha-tariqdev_dsa-algorithms-coding-activity-7299145775840686081-xmXC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) (Current)                                |
-<div style="text-align: center;">
-<p>🌟 Hello, World! I'm Esha, a Tech_Trainer, Software Engineer</p>
+---
 
-<p>💡 Turning AI Ideas into Reality Through Code!</p>
-<p><a href="https://icode.guru/">@icodeguru</a> - <a href="https://www.linkedin.com/posts/esha-tariqdev_dsa-python-leetcode-activity-7298787050143547394--u5K?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3E9xTPuf6cEQ71D3w">Training</a> DSA and Python</p>
+## 🚀 **Tech Sessions @ iCodeGuru**  
+| Session | Status |
+| :------------------------------- | :--------- |
+| [Data Structures for Beginners](https://www.linkedin.com/posts/esha-tariqdev_dsa-algorithms-coding-activity-7299145775840686081-xmXC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) | **Current** |
 
-<p><a href="https://corvit.com/systems/">@corvit</a> - Training Data Analytics using Python</p>
+---
 
-<p>👥 5K+ Followers on <a href="https://www.linkedin.com/in/esha-tariqdev/">LinkedIn</a></p>
+## **🎯 Training & Mentorship**  
+🔹 **[iCodeGuru](https://icode.guru/)** – [Training](https://www.linkedin.com/posts/esha-tariqdev_dsa-python-leetcode-activity-7298787050143547394--u5K?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) in DSA & Python.  
+🔹 **[Corvit](https://corvit.com/systems/)** – Conducting Data Analytics training using Python.  
 
-<p> - **@lablab.ai**: <a href="https://lablab.ai/u/@eesha_tariq899">Participated</a> in $+ AI International Hackathons, collaborating with a global team.</p>
+---
+
+## **🌍 Global AI Contributions**  
+🔹 **5K+ Followers** on [LinkedIn](https://www.linkedin.com/in/esha-tariqdev/).  
+🔹 **[@Lablab.ai](https://lablab.ai/)** – [Contributed](https://lablab.ai/u/@eesha_tariq899) to **4+ International AI Hackathons**, collaborating with global teams on cutting-edge AI solutions.  
+
+---
+
+📩 **Let's Connect & Build the Future Together!** 🚀  
 
 
 
