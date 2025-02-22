@@ -38,6 +38,9 @@
 
 
 
+| TECH SESSIONS @icodeguru                                                                                         |
+| :---------------------------------------------------------------------------------------------------------- |
+| [Data Structures for Beginners](https://www.linkedin.com/posts/esha-tariqdev_dsa-algorithms-coding-activity-7299145775840686081-xmXC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) (Current)                                |
 <div style="text-align: center;">
 <p>🌟 Hello, World! I'm Esha, a Tech_Trainer, Software Engineer</p>
 
