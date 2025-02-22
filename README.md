@@ -36,34 +36,27 @@
   <img src="https://komarev.com/ghpvc/?username=codewithEshaYoutube&label=Profile%20views&color=e9164b&style=flat" alt="codewithEshaYoutube" /> 
 </p>
 
+## **Empowering Minds through Code**  
+| TECH SESSIONS @Corvit | Status |
+| :------------------------------- | :--------- |
+| Python for Data Analytics | **Upcoming** |
 
-# I'm Esha Tariq  
-### Tech Trainer | Software Engineer | AI Enthusiast  
  
-
----
-
-## 🚀 **Tech Sessions @ iCodeGuru**  
-| Session | Status |
+| TECH SESSIONS @icodeguru                                                                                          | Status |
 | :------------------------------- | :--------- |
 | [Data Structures for Beginners](https://www.linkedin.com/posts/esha-tariqdev_dsa-algorithms-coding-activity-7299145775840686081-xmXC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) | **Current** |
 
----
-
-## **🎯 Training & Mentorship**  
-🔹 **[iCodeGuru](https://icode.guru/)** – [Training](https://www.linkedin.com/posts/esha-tariqdev_dsa-python-leetcode-activity-7298787050143547394--u5K?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) in DSA & Python.  
-🔹 **[Corvit](https://corvit.com/systems/)** – Conducting Data Analytics training using Python.  
 
 ---
+- **I'm Esha Tariq** — a Tech Trainer and Software Engineer passionate about AI and innovation.  
 
-## **🌍 Global AI Contributions**  
-🔹 **5K+ Followers** on [LinkedIn](https://www.linkedin.com/in/esha-tariqdev/).  
-🔹 **[@Lablab.ai](https://lablab.ai/)** – [Contributed](https://lablab.ai/u/@eesha_tariq899) to **4+ International AI Hackathons**, collaborating with global teams on cutting-edge AI solutions.  
+- **[@iCodeGuru](https://icode.guru/)** - [Training](https://www.linkedin.com/posts/esha-tariqdev_dsa-algorithms-coding-activity-7299145775840686081-xmXC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) in Data Structures, Algorithms, and Python.  
 
----
+- **[@Corvit](https://corvit.com/systems/)** - Teaching Data Analytics training using Python.  
 
-📩 **Let's Connect & Build the Future Together!** 🚀  
+- **👥 5K+ professional connections** on [LinkedIn](https://www.linkedin.com/in/esha-tariqdev/).  
 
+- **🌍 [@Lablab.ai](https://lablab.ai/)** - [Contributor](https://lablab.ai/u/@eesha_tariq899) in 4+ AI International Hackathons, collaborating with global teams to develop cutting-edge AI solutions.  
 
 
 </div>
