@@ -56,7 +56,7 @@
 
 - **5K+ professional Followers** on [LinkedIn](https://www.linkedin.com/in/esha-tariqdev/).  
 
-- **[@Lablab.ai](https://lablab.ai/)** - [Contributor](https://lablab.ai/u/@eesha_tariq899) in 4+ AI International Hackathons, collaborating with global teams to develop cutting-edge AI solutions.  
+- **[@Lablab.ai](https://lablab.ai/)** - [Contributor](https://lablab.ai/u/@eesha_tariq899) in 5X AI International Hackathons, collaborating with global teams to develop cutting-edge AI solutions.  
 
 
 </div>
