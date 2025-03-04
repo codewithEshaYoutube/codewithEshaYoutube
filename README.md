@@ -1,4 +1,4 @@
-    <h1 align="center">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=I+am+Eesha+Tariq;Tech+Trainer;Software+Engineer" 
          alt="I am Eesha Tariq  | Tech Trainer | Software Engineer" />
 </h1>
