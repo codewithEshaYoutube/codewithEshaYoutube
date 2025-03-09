@@ -3,13 +3,14 @@
          alt="I am Eesha Tariq  | Tech Trainer | Software Engineer" />
 </h1>
 
+
  <div style="display: flex; justify-content: center;">
   <img src="Professional LinkedIn Banner.png" width="800px" />
 </div>
 
 <div align="center"> 
-     
- 
+     [![committers.top badge](https://user-badge.committers.top/pakistan/codewithEshaYoutube.svg)](https://user-badge.committers.top/pakistan/codewithEshaYoutube)
+
   <a href="mailto:tariqeesha321@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
