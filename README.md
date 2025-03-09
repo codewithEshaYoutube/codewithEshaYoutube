@@ -49,9 +49,13 @@
 
 - **[@iCodeGuru](https://icode.guru/)** - [Training](https://www.linkedin.com/posts/esha-tariqdev_dsa-algorithms-coding-activity-7299145775840686081-xmXC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) in Data Structures, Algorithms, and Python.  
 
-- **[@Corvit](https://corvit.com/systems/)** - Teaching Data Analytics training using Python.  
+- **[@Corvit](https://corvit.com/systems/)** - Teaching Data Analytics training using Python.
+- **See My Training** → **[**👀**](https://github.com/codewithEshaYoutube/10am_DataStructures_Algorithm_icodeguru)**.
+  
 
-- **5K+ professional Followers** on [LinkedIn](https://www.linkedin.com/in/esha-tariqdev/).  
+- **5K+ professional Followers** on [LinkedIn](https://www.linkedin.com/in/esha-tariqdev/).
+- **[@MITIT Coding Competition](https://www.linkedin.com/posts/esha-tariqdev_mit2-techcompetition-codewarriors-activity-7287064089481154560-096R/)**: Participated in MITIT Coding Contest Cup **2025** where my team solved Begineer and Advance level problems and ranked 104th. 
+
 
 - **[@Lablab.ai](https://lablab.ai/)** - [Contributor](https://lablab.ai/u/@eesha_tariq899) in 5X AI International Hackathons, collaborating with global teams to develop cutting-edge AI solutions.  
 
