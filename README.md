@@ -54,7 +54,7 @@
   
 
 - **5K+ professional Followers** on [LinkedIn](https://www.linkedin.com/in/esha-tariqdev/).
-- **[@MITIT Coding Competition](https://www.linkedin.com/posts/esha-tariqdev_mit2-techcompetition-codewarriors-activity-7287064089481154560-096R/)**: Participated in MITIT Coding Contest Cup **2025** where my team solved Begineer and Advance level problems and ranked 104th. 
+- **[@MITIT Coding Competition](https://www.linkedin.com/posts/esha-tariqdev_mit2-techcompetition-codewarriors-activity-7287064089481154560-096R/)**: Participated in MITIT Coding Contest Cup **2025** where my team solved Difficuilt problems and ranked 104th. 
 
 
 - **[@Lablab.ai](https://lablab.ai/)** - [Contributor](https://lablab.ai/u/@eesha_tariq899) in 5X AI International Hackathons, collaborating with global teams to develop cutting-edge AI solutions.  
