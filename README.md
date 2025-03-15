@@ -108,8 +108,8 @@
   🚀 Hire Me on Upwork
 </a>
 
-<h2 align="center">Skills:</h2>
-<p align="center">  
+<h1 align="left">Skills</h1>
+<p align="left">  
   <strong>Languages and Frameworks:</strong><br>
 
 <p align="center">
@@ -155,7 +155,7 @@
 </p>
   
 
-<h2 align="center">My Stats </h2>
+<h1 align="left">My Stats </h1>
 <br>
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=codewithEshaYoutube&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
