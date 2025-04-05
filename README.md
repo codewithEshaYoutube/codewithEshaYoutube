@@ -48,11 +48,7 @@
 
 
 ## **Empowering Minds through Code**  
-| TECH SESSIONS @Corvit | Status |
-| :------------------------------- | :--------- |
-| Python for Data Analytics | **Upcoming** |
 
- 
 | TECH SESSIONS @icodeguru                                                                                          | Status |
 | :------------------------------- | :--------- |
 | Data Structures for Beginners 2.0 | **Current** |
