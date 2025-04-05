@@ -67,7 +67,7 @@
 - **See My Training** → **[**👀**](https://github.com/codewithEshaYoutube/10am_DataStructures_Algorithm_icodeguru)**.
   
 
-- **5K+ professional Followers** on [LinkedIn](https://www.linkedin.com/in/esha-tariqdev/).
+- **6K+ professional Followers** on [LinkedIn](https://www.linkedin.com/in/esha-tariqdev/).
 - **[@MITIT Coding Competition](https://www.linkedin.com/posts/esha-tariqdev_mit2-techcompetition-codewarriors-activity-7287064089481154560-096R/)**: Participated in MITIT Coding Contest Cup **2025** where my team solved challenging problems and ranked 104th. 
 
 
