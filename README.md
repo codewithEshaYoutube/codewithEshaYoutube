@@ -61,7 +61,6 @@
 
 - **[@iCodeGuru](https://icode.guru/)** - [Training](https://www.linkedin.com/posts/esha-tariqdev_dsa-algorithms-coding-activity-7299145775840686081-xmXC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) in Data Structures, Algorithms, and Python.  
 
-- **[@Corvit](https://corvit.com/systems/)** - Teaching Data Analytics training using Python.
 - **See My Training** → **[**👀**](https://github.com/codewithEshaYoutube/10am_DataStructures_Algorithm_icodeguru)**.
   
 
