@@ -66,10 +66,10 @@
 
 - **6K+ professional Followers** on [LinkedIn](https://www.linkedin.com/in/esha-tariqdev/).
 - **[@MITIT Coding Competition](https://www.linkedin.com/posts/esha-tariqdev_mit2-techcompetition-codewarriors-activity-7287064089481154560-096R/)**: Participated in MITIT Coding Contest Cup **2025** where my team solved challenging problems and ranked 104th.
-- **[@CS50x Puzzle Day 2025](https://www.linkedin.com/posts/esha-tariqdev_cs50-puzzleday-problemsolving-activity-7314299663879221248-wS5h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)**-Participated in Harvard's global logic and problem-solving challenge with a diverse international team and **won  by solving 9/9 puzzles securing 1st position**! 🏆  
-  [Check out the challenge and my solutions on GitHub](https://github.com/codewithEshaYoutube/Harvard_CS50x_Puzzle_Day_2025).
+- **[@CS50x Puzzle Day 2025](https://www.linkedin.com/posts/esha-tariqdev_cs50-puzzleday-problemsolving-activity-7314299663879221248-wS5h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)**-[Participated](https://github.com/codewithEshaYoutube/Harvard_CS50x_Puzzle_Day_2025) in Harvard's global logic and problem-solving challenge with a diverse international team and **[won  by solving 9/9 puzzles](https://www.linkedin.com/posts/esha-tariqdev_cs50x-puzzleday2025-catchmeifyoucan-activity-7316545991527038978-HkHU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) securing 1st position**! 🏆  
+  
 
-- **[@Stanford Code in Place 2025r](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-stanforduniversity-sectionleader2025-activity-7316534267864346624-WdH_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) - Selected  to serve as a **Section Leader** for **Code in Place 2025**, a global teaching program by Stanford University, where I'll mentor students worldwide and help deliver Stanford's CS106A curriculum.
+- **[@Stanford Code in Place 2025](https://codeinplace.stanford.edu/)- [Selected](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-stanforduniversity-sectionleader2025-activity-7316534267864346624-WdH_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) to serve as a **Section Leader** for **Code in Place 2025**, a global teaching program by Stanford University, where I'll mentor students worldwide and help deliver Stanford's CS106A curriculum.
 
 
 
