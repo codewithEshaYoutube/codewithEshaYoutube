@@ -74,7 +74,7 @@
 
 - **[@UC Berkeley CALICO Spring 2025](https://github.com/codewithEshaYoutube/UC_Berkley_CALICO_Spring-25/)**: [Participated](https://www.linkedin.com/posts/esha-tariqdev_ucberkeley-calicospring2025-globalcodingchallenge-activity-7322124227514368001-HKew?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) in UC Berkeley's Global Coding Challenge **CALICO Spring 2025**, where my team *Runtime Terror* solved multiple AI-proof hard problems and ranked **86th internationally**.
 
-- **[@Lablab.ai](https://lablab.ai/)** - [Contributor](https://lablab.ai/u/@eesha_tariq899) in 5X AI International Hackathons, collaborating with global teams to develop cutting-edge AI solutions.  
+- **[@Lablab.ai](https://lablab.ai/)** - [Contributor](https://lablab.ai/u/@eesha_tariq899) in 6X AI International Hackathons, collaborating with global teams to develop cutting-edge AI solutions.  
 
 
 </div>
