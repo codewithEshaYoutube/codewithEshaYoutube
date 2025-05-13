@@ -1,8 +1,4 @@
- <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=I+am+Eesha+Tariq;Tech+Trainer;Software+Engineer" 
-         alt="I am Eesha Tariq  | Tech Trainer | Software Engineer" />
-    
-</h1>
+
 <div align="center">
 
 # Top [![committers.top badge](https://user-badge.committers.top/pakistan/codewithEshaYoutube.svg)](https://user-badge.committers.top/pakistan/codewithEshaYoutube)th Pakistani Github Contributor  
@@ -15,6 +11,11 @@
  <div style="display: flex; justify-content: center;">
   <img src="Professional LinkedIn Banner.png" width="800px" />
 </div>
+ <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=I+am+Eesha+Tariq;Tech+Trainer;Software+Engineer" 
+         alt="I am Eesha Tariq  | Tech Trainer | Software Engineer" />
+    
+</h1>
 
   
 
