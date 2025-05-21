@@ -48,10 +48,21 @@
 
 ## **Empowering Minds through Code**  
 
-| TECH SESSIONS @icodeguru                                                                                          | Status |
-| :------------------------------- | :--------- |
-| Data Structures for Beginners 2.0 | **Current** |
-| [Data Structures for Beginners 1.0](https://www.linkedin.com/posts/esha-tariqdev_dsa-algorithms-coding-activity-7299145775840686081-xmXC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) | **[Completed](https://www.linkedin.com/posts/esha-tariqdev_dsasessions-learningjourney-gratitude-activity-7314356100860981248-nnb9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)** |
+##  TECH SESSIONS @ iCodeGuru
+
+| Session                                                                                                          | Status |
+| :-------------------------------------------------------------------------------------------------------------- | :----: |
+| Data Structures for Beginners 2.0                                                                               | **[Current](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-stanforduniversity-sectionleader2025-activity-7316534267864346624-WdH_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)** |
+| [Data Structures for Beginners 1.0](https://www.linkedin.com/posts/esha-tariqdev_dsa-algorithms-coding-activity-7299145775840686081-xmXC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) <br> **[Completed Reflection](https://www.linkedin.com/posts/esha-tariqdev_dsasessions-learningjourney-gratitude-activity-7314356100860981248-nnb9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)** | **Completed** |
+
+---
+
+##  STANFORD UNIVERSITY – Code in Place 2025
+
+| Role & Course                                                                                                   | Status |
+| :-------------------------------------------------------------------------------------------------------------- | :----: |
+| [Code in Place Trainer @ Stanford University – CS106A (Python Fundamentals)](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place) | **[Current](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-stanforduniversity-sectionleader2025-activity-7316534267864346624-WdH_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)** |
+
 
 
 
