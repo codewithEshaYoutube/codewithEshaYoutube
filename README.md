@@ -122,23 +122,114 @@
   transition: transform 0.2s, box-shadow 0.2s;
 ">
   🚀 Hire Me on Upwork
-</a>
-<h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="34px"> Favorite Tech</h1>
-Tools, languages, and frameworks I enjoy working with — Majorly Python and its powerful libraries.
 
-<table> <tr> <!-- Core Languages --> <td align="center" width="96"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="48" height="48" /> <br>Python </td> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" /> <br>JavaScript </td> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48" /> <br>HTML5 </td> <td align="center" width="96"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48" /> <br>CSS3 </td> </tr> <tr> <!-- Python Libraries --> <td align="center" width="96"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/numpy.svg?raw=true" alt="NumPy" width="48" height="48" /> <br>NumPy </td> <td align="center" width="96"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/pandas.svg?raw=true" alt="Pandas" width="48" height="48" /> <br>Pandas </td> <td align="center" width="96"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/matplotlib.svg?raw=true" alt="Matplotlib" width="48" height="48" /> <br>Matplotlib </td> <td align="center" width="96"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/seaborn.svg?raw=true" alt="Seaborn" width="48" height="48" /> <br>Seaborn </td> <td align="center" width="96"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/scikitlearn.svg?raw=true" alt="Scikit-learn" width="48" height="48" /> <br>Sklearn </td> <td align="center" width="96"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/plotly.svg?raw=true" alt="Plotly" width="48" height="48" /> <br>Plotly </td> </tr> <tr> <!-- Frontend Stack --> <td align="center" width="96"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="48" height="48" /> <br>Tailwind </td> <td align="center" width="96"> <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" alt="Vite" width="48" height="48" /> <br>Vite </td> <td align="center" width="96"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="48" height="48" /> <br>React </td> <td align="center" width="96"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="NextJS" width="48" height="48" /> <br>NextJS </td> </tr> <tr> <!-- Backend & Tools --> <td align="center" width="96"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="48" height="48" /> <br>PHP </td> <td align="center" width="96"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="48" height="48" /> <br>Laravel </td> <td align="center" width="96"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="48" height="48" /> <br>MySQL </td> <td align="center" width="96"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="48" height="48" /> <br>WordPress </td> </tr> <tr> <!-- Tools --> <td align="center" width="96"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" /> <br>Figma </td> <td align="center" width="96"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="48" height="48" /> <br>Jupyter </td> <td align="center" width="96"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/streamlit.svg" alt="Streamlit" width="48" height="48" /> <br>Streamlit </td> <td align="center" width="96"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" /> <br>VS Code </td> <td align="center" width="96"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" /> <br>Git </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="50" /> <br>GitHub </td> </tr> </table>
 
-<h1 align="left">My Stats</h1>
-<br>
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="34px" /> Tech Stack and Tools
+</h1>
 
-<!-- Streak + General Stats side by side -->
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
+<table style="border-collapse: collapse; width: 100%; max-width: 900px; margin: 20px auto; font-family: Arial, sans-serif;">
+  <tr>
+    <!-- JavaScript, CSS, HTML -->
+    <!-- Python and Python tools -->
+    <td align="center" style="padding: 12px;">
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" height="48" alt="Python" /><br>Python
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="48" height="48" alt="Pandas" /><br>Pandas
+    </td>
+    <td align="center" width="96">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsuYR3Z69dF9QluPZlRgZVxPO3L-OAhPKPbw&s" width="48" height="48" alt="Generative AI" />
+  <br>Generative AI
+</td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://matplotlib.org/_static/images/logo2.svg" width="48" height="48" alt="Matplotlib" /><br>Matplotlib
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="48" height="48" alt="Scikit-learn" /><br>Scikit-learn
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" /><br>TensorFlow
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="48" height="48" alt="GitHub" /><br>GitHub
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" /><br>Git
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="48" height="48" alt="MySQL" /><br>MySQL
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" style="padding: 12px;">
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="48" height="48" alt="CSS3" /><br>CSS3
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="48" height="48" alt="HTML5" /><br>HTML5
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="TailwindCSS" /><br>TailwindCSS
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" /><br>Vite
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="React" /><br>React
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" /><br>Figma
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" height="48" alt="Streamlit" /><br>Streamlit
+    </td>
+  </tr>
+
   
-  <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=codewithEshaYoutube&theme=react" alt="GitHub Streak" width="390" />
-  </a>
+    
   
+
+  <tr>
+    <td align="center" style="padding: 12px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="48" height="48" alt="NumPy" /><br>NumPy
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" width="48" height="48" alt="Slack" /><br>Slack
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="48" height="48" alt="Seaborn" /><br>Seaborn
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="Keras" /><br>Keras
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="48" height="48" alt="FastAPI" /><br>FastAPI
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" width="48" height="48" alt="BeautifulSoup" /><br>BeautifulSoup
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" width="48" height="48" alt="Scrapy" /><br>Scrapy
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://avatars.slack-edge.com/2024-04-05/6934042159649_ac803d1cddbcbef8f110_512.png" width="48" height="48" alt="Postman" /><br>Postman
+    </td>
+    <td align="center" style="padding: 12px;">
+      <img src="https://scratch.cresst.org/static/assets/1e9652bec24bcaacf5285be19746a750.svg" width="48" height="48" alt="Scratch" /><br>Scratch
+    </td>
+  </tr>
+ 
+</table>
+
+  
+
   <!-- GitHub General Stats -->
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=codewithEshaYoutube&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" width="390" />
 
