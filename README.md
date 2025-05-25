@@ -173,16 +173,24 @@
 
 <h1 align="left">My Stats</h1>
 <br>
-<div align="center">
+
+<!-- Streak + General Stats side by side -->
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
+  
+  <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=codewithEshaYoutube&theme=react" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=codewithEshaYoutube&theme=react" alt="GitHub Streak" width="390" />
   </a>
   
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=codewithEshaYoutube&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  
-  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=codewithEshaYoutube&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <!-- GitHub General Stats -->
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=codewithEshaYoutube&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" width="390" />
+
 </div>
 
+<!-- Top Languages - separate line -->
+<div align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=codewithEshaYoutube&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" width="390" />
+</div>
 
 
  # Completed International Hackathons🥇:
