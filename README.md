@@ -50,9 +50,12 @@
 
 ##  TECH SESSIONS @ iCodeGuru
 
-| Session                                                                                                          | Status |
-| :-------------------------------------------------------------------------------------------------------------- | :----: |
-| [Data Structures for Beginners 1.0](https://www.linkedin.com/posts/esha-tariqdev_dsa-algorithms-coding-activity-7299145775840686081-xmXC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)  | **[Completed](https://www.linkedin.com/posts/esha-tariqdev_dsasessions-learningjourney-gratitude-activity-7314356100860981248-nnb9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)** |
+
+| Session                                                                                              | Status                                                                                                 |
+|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| <a href="https://github.com/codewithEshaYoutube/2pm_Mastering_DSA_For_Beginners_Course/blob/main/README.md" target="_blank" rel="noopener noreferrer">2PM Mastering DSA For Beginners Course</a> | <b>Current</b>                                                                                         |
+| <a href="https://www.linkedin.com/posts/esha-tariqdev_dsa-algorithms-coding-activity-7299145775840686081-xmXC" target="_blank" rel="noopener noreferrer">Data Structures for Beginners 1.0</a> | <b><a href="https://www.linkedin.com/posts/esha-tariqdev_dsasessions-learningjourney-gratitude-activity-7314356100860981248-nnb9" target="_blank" rel="noopener noreferrer">Completed</a></b> |
+
 
 ---
 
@@ -60,7 +63,7 @@
 
 | Role & Course                                                                                                   | Status |
 | :-------------------------------------------------------------------------------------------------------------- | :----: |
-| [Code in Place Trainer @ Stanford University – CS106A (Python Fundamentals)](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place) | **[Current](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-stanforduniversity-sectionleader2025-activity-7316534267864346624-WdH_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)** |
+| [Code in Place Trainer @ Stanford University – CS106A (Python Fundamentals)](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place) | **[Completed](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-stanforduniversity-sectionleader2025-activity-7316534267864346624-WdH_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)** |
 
 
 
