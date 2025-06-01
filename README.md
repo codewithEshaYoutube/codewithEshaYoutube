@@ -48,7 +48,7 @@
 
 ## **Empowering Minds through Code**  
 
-##  TECH SESSIONS @ iCodeGuru
+##  TECH SESSIONS – iCodeGuru
 
 
 | Session                                                                                              | Status                                                                                                 |
