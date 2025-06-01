@@ -225,7 +225,7 @@
       <img src="https://avatars.slack-edge.com/2024-04-05/6934042159649_ac803d1cddbcbef8f110_512.png" width="48" height="48" alt="Postman" /><br>Postman
     </td>
     <td align="center" style="padding: 12px;">
-      <img src="https://scratch.cresst.org/static/assets/1e9652bec24bcaacf5285be19746a750.svg" width="48" height="48" alt="Scratch" /><br>Scratch
+      <br><img src="Scratch.png" width="48" height="20" alt="Scratch" /><br>Scratch
     </td>
   </tr>
  
