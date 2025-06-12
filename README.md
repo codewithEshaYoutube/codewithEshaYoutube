@@ -71,7 +71,9 @@
 ---
 - **I'm Esha Tariq** — a Tech Trainer and Software Engineer passionate about AI and innovation.  
 
-- **[@iCodeGuru](https://icode.guru/)** - [Training](https://www.linkedin.com/posts/esha-tariqdev_dsa-algorithms-coding-activity-7299145775840686081-xmXC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) in Data Structures, Algorithms, and Python.- **Global Coding Instructor at [Codingal](https://www.codingal.com)** (YC W21) – Teaching Python and logic to K–12 students from the US, Australia, UAE, Canada, and India.
+- **[@iCodeGuru](https://icode.guru/)** - [Training](https://www.linkedin.com/posts/esha-tariqdev_dsa-algorithms-coding-activity-7299145775840686081-xmXC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) in Data Structures, Algorithms, and Python.
+- **[@Codingal](https://www.codingal.com)** (YC W21) – Global Coding Instructor teaching Python and logic to K–12 students from the US, Australia, UAE, Canada, and India. → [📂 View Teaching Portfolio](https://github.com/codewithEshaYoutube/Codingal)
+
 
 
 - **See My Training** → **[**👀**](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place)**.
