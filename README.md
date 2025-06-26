@@ -239,21 +239,19 @@
 </h1>
 <br>
 
-<!-- 🔹 Two cards in one row: GitHub Streak + GitHub Stats -->
+<!-- 🔹 First Row: Streak + Stats (smaller side by side) -->
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=codewithEshaYoutube&theme=react" alt="GitHub Streak" height="200"/>
+    <img src="https://streak-stats.demolab.com?user=codewithEshaYoutube&theme=react" alt="GitHub Streak" width="340"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=codewithEshaYoutube&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" height="200"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=codewithEshaYoutube&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" width="340"/>
 </p>
 
-<!-- 🔸 Third card in second row: Top Languages centered -->
+<!-- 🔸 Second Row: Top Languages (centered and slightly wider) -->
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=codewithEshaYoutube&hide=html&langs_count=6&layout=compact&theme=react&border_radius=10" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=codewithEshaYoutube&hide=html&langs_count=6&layout=compact&theme=react&border_radius=10" alt="Top Languages" width="340"/>
 </p>
-
-
 
 
  # Completed International Hackathons🥇:
