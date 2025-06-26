@@ -239,24 +239,19 @@
 </h1>
 <br>
 
-<!-- Stats and Top Languages side by side on first line -->
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap; margin-bottom: 20px;">
-  <!-- GitHub General Stats -->
+<!-- 🔹 Two cards in one row: GitHub Streak + GitHub Stats -->
+<p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=codewithEshaYoutube&theme=react" alt="GitHub Streak" width="300" />
+    <img src="https://streak-stats.demolab.com?user=codewithEshaYoutube&theme=react" alt="GitHub Streak" height="200"/>
   </a>
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=codewithEshaYoutube&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" width="290" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=codewithEshaYoutube&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" height="200"/>
+</p>
 
-  <!-- Top Languages -->
-  
-</div>
-
-<!-- GitHub Streak on second line, bigger and centered -->
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=codewithEshaYoutube&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" width="280" />
-</div>
-</div>
-
+<!-- 🔸 Third card in second row: Top Languages centered -->
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=codewithEshaYoutube&hide=html&langs_count=6&layout=compact&theme=react&border_radius=10" alt="Top Languages" width="400"/>
+</p>
 
 
 
