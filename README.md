@@ -1,4 +1,4 @@
-                                                                                                                                                         
+                                                                                                                                                          
 <div align="center">   
 
 # Top [![committers.top badge](https://user-badge.committers.top/pakistan/codewithEshaYoutube.svg)](https://user-badge.committers.top/pakistan/codewithEshaYoutube)th Pakistani Github Contributor  
@@ -59,11 +59,13 @@
   
 ---
 
-##  STANFORD UNIVERSITY – Code in Place 2025
+## 🎓 STANFORD UNIVERSITY – Code in Place 2025
 
-| Role & Course                                                                                                   | Status |
-| :-------------------------------------------------------------------------------------------------------------- | :----: |
-| [Code in Place Trainer @ Stanford University – CS106A (Python Fundamentals)](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place) | **[Completed](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-stanforduniversity-sectionleader2025-activity-7316534267864346624-WdH_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)** |
+| Role & Course                                                                                                         | Status | Credential |
+| :-------------------------------------------------------------------------------------------------------------------- | :----: | :--------: |
+| [Code in Place Section Leader @ Stanford University – CS106A (Python Fundamentals)](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place) | [Completed](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-stanfordcip-pythonlearning-activity-7334268281068969984-Fp4-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) | 🎖️ [Stanford Verified Digital Credential](https://digitalcredential.stanford.edu/check/68D4A9D4F7D8950EC46ED44D73066D0D52735F6086C003AD37A11735E1A4D5A5dmdhTEFKZkxOeFdGekszZDZaSXZLQ2VuTWoxWkZFbGhGQktuazVSOFpXY01yZFYw) |
+
+
 
 
 
