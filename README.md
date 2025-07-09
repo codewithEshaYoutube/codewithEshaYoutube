@@ -96,7 +96,8 @@
 - **[@Lablab.ai](https://lablab.ai/)** – [Contributor](https://lablab.ai/u/@eesha_tariq899) in **6X AI International Hackathons**, collaborating with global teams to develop cutting-edge AI solutions using advanced technologies such as GPT-4, LangChain, and FastAPI.
 
 - **🏅 Finalist at [RAISE Your Hack](https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)**
-– Recognized as a top project at the official hackathon of the **RAISE Summit 2025** held at **Le Carrousel du Louvre, Paris**, for developing **VHeal AI**, a real-time AI agentic solution for patient discharge bottlenecks in hospitals under the team **Aptiva AI**.- Worked as Full Stack Developer at South Xclusive Properties (UAE), Vialogic (United Kingdom), Wallafan (Spain), Gutech International LLC (United States)
+– Recognized as a top project at the official hackathon of the **RAISE Summit 2025** held at **Le Carrousel du Louvre, Paris**, for developing **VHeal AI**, a real-time AI agentic solution for patient discharge bottlenecks in hospitals under the team **Aptiva AI**.
+- Worked as Full Stack Developer at South Xclusive Properties (UAE), Vialogic (United Kingdom), Wallafan (Spain), Gutech International LLC (United States)
 
 
 
