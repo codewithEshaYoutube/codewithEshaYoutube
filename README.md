@@ -53,7 +53,7 @@
 
 | Session                                                                                              | Status                                                                                                 |
 |----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| <a href="https://github.com/codewithEshaYoutube/2pm_Mastering_DSA_For_Beginners_Course/blob/main/README.md" target="_blank" rel="noopener noreferrer">2PM Mastering DSA For Beginners Course</a> | <b>Current</b>                                                                                         |
+| <a href="https://github.com/codewithEshaYoutube/2pm_Mastering_DSA_For_Beginners_Course/blob/main/README.md" target="_blank" rel="noopener noreferrer">2PM Mastering DSA For Beginners Course</a> |  <b><a href="https://www.linkedin.com/posts/esha-tariqdev_dsa-python-codewithesha-activity-7350173195594825728-4q4i?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">Completed</a></b> |
 | <a href="https://www.linkedin.com/posts/esha-tariqdev_dsa-algorithms-coding-activity-7299145775840686081-xmXC" target="_blank" rel="noopener noreferrer">Data Structures for Beginners 1.0</a> | <b><a href="https://www.linkedin.com/posts/esha-tariqdev_dsasessions-learningjourney-gratitude-activity-7314356100860981248-nnb9" target="_blank" rel="noopener noreferrer">Completed</a></b> |
 
   
@@ -78,7 +78,7 @@
 
 
 
-- **See My Training** → **[**👀**](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place)**.
+- **See My Training** → **[**👀**](https://docs.google.com/spreadsheets/d/1h82e-YxyAaESvkeQTcZIJxAtAj43uyvfGqxjTW3Nd08/edit?gid=1151484250#gid=1151484250)**.
   
 
 - **6K+ professional Followers** on [LinkedIn](https://www.linkedin.com/in/esha-tariqdev/).
@@ -91,12 +91,13 @@
 
 
 - **[@UC Berkeley CALICO Spring 2025](https://github.com/codewithEshaYoutube/UC_Berkley_CALICO_Spring-25/)**: [Participated](https://www.linkedin.com/posts/esha-tariqdev_ucberkeley-calicospring2025-globalcodingchallenge-activity-7322124227514368001-HKew?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) in UC Berkeley's Global Coding Challenge **CALICO Spring 2025**, where my team *Runtime Terror* solved multiple AI-proof hard problems and ranked **86th internationally**.
+- **🏅Yinner at [RAISE Your Hack](https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)**
+– Recognized as a top project at the official hackathon of the **RAISE Summit 2025** held at **Le Carrousel du Louvre, Paris**, for developing **VHeal AI**, a real-time AI agentic solution for patient discharge bottlenecks in hospitals under the team **Aptiva AI**.
 
 
 - **[@Lablab.ai](https://lablab.ai/)** – [Contributor](https://lablab.ai/u/@eesha_tariq899) in **7X AI International Hackathons**, collaborating with global teams to develop cutting-edge AI solutions using advanced technologies such as GPT-4, LangChain, and FastAPI.
 
-- **🏅 Finalist at [RAISE Your Hack](https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)**
-– Recognized as a top project at the official hackathon of the **RAISE Summit 2025** held at **Le Carrousel du Louvre, Paris**, for developing **VHeal AI**, a real-time AI agentic solution for patient discharge bottlenecks in hospitals under the team **Aptiva AI**.
+
 - Worked as Full Stack Developer at South Xclusive Properties (UAE), Vialogic (United Kingdom), Wallafan (Spain), Gutech International LLC (United States)
 
 
