@@ -80,8 +80,6 @@
 
 - **See My Training** → **[**👀**](https://docs.google.com/spreadsheets/d/1h82e-YxyAaESvkeQTcZIJxAtAj43uyvfGqxjTW3Nd08/edit?gid=1151484250#gid=1151484250)**.
   
-
-- **6K+ professional Followers** on [LinkedIn](https://www.linkedin.com/in/esha-tariqdev/).
 - **[@MITIT Coding Competition](https://www.linkedin.com/posts/esha-tariqdev_mit2-techcompetition-codewarriors-activity-7287064089481154560-096R/)**: Participated in MITIT Coding Contest Cup **2025** where my team solved challenging problems and ranked 104th.
 - **[@CS50x Puzzle Day 2025](https://www.linkedin.com/posts/esha-tariqdev_cs50-puzzleday-problemsolving-activity-7314299663879221248-wS5h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)** - [Participated](https://github.com/codewithEshaYoutube/Harvard_CS50x_Puzzle_Day_2025) in Harvard's global logic and problem-solving challenge with a diverse international team and **[won  by solving 9/9 puzzles](https://www.linkedin.com/posts/esha-tariqdev_cs50x-puzzleday2025-catchmeifyoucan-activity-7316545991527038978-HkHU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) securing 1st position**! 🏆  
   
@@ -91,8 +89,8 @@
 
 
 - **[@UC Berkeley CALICO Spring 2025](https://github.com/codewithEshaYoutube/UC_Berkley_CALICO_Spring-25/)**: [Participated](https://www.linkedin.com/posts/esha-tariqdev_ucberkeley-calicospring2025-globalcodingchallenge-activity-7322124227514368001-HKew?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) in UC Berkeley's Global Coding Challenge **CALICO Spring 2025**, where my team *Runtime Terror* solved multiple AI-proof hard problems and ranked **86th internationally**.
-- **🏅Yinner at [RAISE Your Hack](https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)**
-– Recognized as a top project at the official hackathon of the **RAISE Summit 2025** held at **Le Carrousel du Louvre, Paris**, for developing **VHeal AI**, a real-time AI agentic solution for patient discharge bottlenecks in hospitals under the team **Aptiva AI**.
+
+- 🏅 **Winner at [RAISE Your Hack](https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma)** – Selected among top global projects at the official hackathon of **RAISE Summit 2025** (Le Carrousel du Louvre, Paris) for building **VHeal AI**, a real-time agentic AI solution for hospital discharge bottlenecks with team **Aptiva AI**.
 
 
 - **[@Lablab.ai](https://lablab.ai/)** – [Contributor](https://lablab.ai/u/@eesha_tariq899) in **7X AI International Hackathons**, collaborating with global teams to develop cutting-edge AI solutions using advanced technologies such as GPT-4, LangChain, and FastAPI.
