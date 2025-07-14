@@ -90,7 +90,7 @@
 
 - **[@UC Berkeley CALICO Spring 2025](https://github.com/codewithEshaYoutube/UC_Berkley_CALICO_Spring-25/)**: [Participated](https://www.linkedin.com/posts/esha-tariqdev_ucberkeley-calicospring2025-globalcodingchallenge-activity-7322124227514368001-HKew?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) in UC Berkeley's Global Coding Challenge **CALICO Spring 2025**, where my team *Runtime Terror* solved multiple AI-proof hard problems and ranked **86th internationally**.
 
-- 🏅 **[Finalist](https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma/) at [RAISE Your Hack](https://lablab.ai/event/raise-your-hack/aptiva-ai/vheal-ai)** – Selected among top global projects at the official hackathon of **RAISE Summit 2025** (Le Carrousel du Louvre, Paris) for building **VHeal AI**, a real-time agentic AI solution for hospital discharge bottlenecks with team **Aptiva AI**.
+- **[@Lablab.ai](https://lablab.ai/)** 🏅 **[Finalist](https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma/) at [RAISE Your Hack](https://lablab.ai/event/raise-your-hack/aptiva-ai/vheal-ai)** – Selected among top global projects at the official hackathon of **RAISE Summit 2025** (Le Carrousel du Louvre, Paris) for building **VHeal AI**, a real-time agentic AI solution for hospital discharge bottlenecks with team **Aptiva AI**.
 
 
 - **[@Lablab.ai](https://lablab.ai/)** – [Contributor](https://lablab.ai/u/@eesha_tariq899) in **7X AI International Hackathons**, collaborating with global teams to develop cutting-edge AI solutions using advanced technologies such as GPT-4, LangChain, and FastAPI.
