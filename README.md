@@ -285,16 +285,17 @@
   <a href="https://www.linkedin.com/posts/esha-tariqdev_cs50-puzzleday-problemsolving-activity-7314299663879221248-wS5h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
     <img src="UC Berkley calico.png" width="390px" height="220px" />
   </a>
-  <a href="https://www.linkedin.com/posts/esha-tariqdev_cs50-puzzleday-problemsolving-activity-7314299663879221248-wS5h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-    <img src="AI genesis hackathon.webp" width="390px" />
-  </a>
-   <a href="https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-    <img src="Raise_your_hack.webp" width="390px" />
-  </a>
-  </a>
-   <a href="https://www.linkedin.com/posts/esha-tariqdev_ai-fintech-agenticai-activity-7355295096650530816-ZPnM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-    <img src="CS_girlies hack.png" width="390px" />
-  </a>
+ <a href="https://www.linkedin.com/posts/esha-tariqdev_cs50-puzzleday-problemsolving-activity-7314299663879221248-wS5h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
+  <img src="AI genesis hackathon.webp" width="390px" />
+</a>
+
+<a href="https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
+  <img src="Raise_your_hack.webp" width="390px" />
+</a>
+
+<a href="https://www.linkedin.com/posts/esha-tariqdev_ai-fintech-agenticai-activity-7355295096650530816-ZPnM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
+  <img src="CS_girlies hack.png" width="390px" height="800px" />
+</a>
  
   
   
