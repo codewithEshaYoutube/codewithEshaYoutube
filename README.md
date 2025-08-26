@@ -299,7 +299,7 @@
   <img src="CS_girlies_hack.png" width="390px" height="1800px" />
 </a>
 <a href="https://www.linkedin.com/posts/esha-tariqdev_gpt5hackathon-agentica-aiagents-activity-7366163591009390592-mtbf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-  <img src="Raise_your_hack.webp" width="390px" />
+  <img src="gpt5_hackathon.webp" width="390px" />
 </a>
 
  
