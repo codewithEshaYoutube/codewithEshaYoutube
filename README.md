@@ -95,7 +95,7 @@
 
 - **[@Lablab.ai](https://lablab.ai/)** – [Winner🏅](https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma/) at the **RAISE Your Hack** Hackathon (RAISE Summit 2025, Paris) for **VHeal AI**, an Agentic AI hospital discharge copilot with real-time triage and care plans.
 
-- **[@Lablab.ai](https://lablab.ai/u/@eesha_tariq899)** – [Participated](https://lablab.ai/u/@eesha_tariq899) in **8X global AI hackathons** with **2X International Hackathon Wins**, building Agentic AI apps using GPT-4, FastAPI, Redis, and Streamlit.
+- **[@Lablab.ai](https://lablab.ai/u/@eesha_tariq899)** – [Participated](https://lablab.ai/u/@eesha_tariq899) in **10 X global AI hackathons** with **2X International Hackathon Wins**, building Agentic AI apps using GPT-4, FastAPI, Redis, and Streamlit.
 
 
 
@@ -294,12 +294,16 @@
 <a href="https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
   <img src="Raise_your_hack.webp" width="390px" />
 </a>
+<a href="https://www.linkedin.com/posts/esha-tariqdev_gpt5hackathon-agentica-aiagents-activity-7366163591009390592-mtbf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
+  <img src="gpt5_hackathon.webp" width="390px" />
+</a>
 
 <a href="https://www.linkedin.com/posts/esha-tariqdev_ai-fintech-agenticai-activity-7355295096650530816-ZPnM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
   <img src="CS_girlies_hack.png" width="390px" height="1800px" />
 </a>
-<a href="https://www.linkedin.com/posts/esha-tariqdev_gpt5hackathon-agentica-aiagents-activity-7366163591009390592-mtbf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-  <img src="gpt5_hackathon.webp" width="390px" />
+
+<a href="https://www.linkedin.com/posts/esha-tariqdev_neuraviahacks2025-aiforgood-hackathon-activity-7366167862064902144-oALt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
+  <img src="neuravia.png" width="390px" />
 </a>
 
  
