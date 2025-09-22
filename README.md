@@ -103,7 +103,7 @@
 
 - **[@Lablab.ai](https://lablab.ai/)** – [Winner🏅](https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma/) at the **RAISE Your Hack** Hackathon (RAISE Summit 2025, Paris) for **VHeal AI**, an Agentic AI hospital discharge copilot with real-time triage and care plans.
 
-- **[@Lablab.ai](https://lablab.ai/u/@eesha_tariq899)** – [Participated](https://lablab.ai/u/@eesha_tariq899) in **10 X global AI hackathons** with **2X International Hackathon Wins**, building Agentic AI apps using GPT-4, FastAPI, Redis, and Streamlit.
+- **[@Lablab.ai](https://lablab.ai/u/@eesha_tariq899)** – [Participated](https://lablab.ai/u/@eesha_tariq899) in **12 X global AI hackathons** with **2X International Hackathon Wins**, building Agentic AI apps using GPT-4, FastAPI, Redis, and Streamlit.
 
 
 
