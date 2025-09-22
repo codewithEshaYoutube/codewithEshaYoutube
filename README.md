@@ -317,7 +317,7 @@
   <img src="Internet_Hack.webp" width="390px" />
 </a>
 <a href="https://www.linkedin.com/posts/esha-tariqdev_neuraviahacks2025-aiforgood-hackathon-activity-7366167862064902144-oALt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-  <img src="neuravia.png" width="390px" />
+  <img src="Superhack2025.webp" width="390px" />
 </a>
 
  
