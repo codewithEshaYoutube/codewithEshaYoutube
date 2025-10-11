@@ -108,6 +108,7 @@
 
 - **[@Lablab.ai](https://lablab.ai/u/@eesha_tariq899)** – [Participated](https://lablab.ai/u/@eesha_tariq899) in **12 X global AI hackathons** with **2X International Hackathon Wins**, building Agentic AI apps using GPT-4, FastAPI, Redis, and Streamlit.
 
+- @Typing Speed: 70 WPM — boosts efficiency in implementing and testing AI models.  
 
 
 - Worked as Full Stack Developer at South Xclusive Properties (UAE), Vialogic (United Kingdom), Wallafan (Spain), Gutech International LLC (United States)
