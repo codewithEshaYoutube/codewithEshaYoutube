@@ -327,7 +327,10 @@
   <img src="NASA_Space_App_2025.png" width="390px" />
 </a>
 
- 
+ <a href="https://www.linkedin.com/posts/esha-tariqdev_%F0%9D%90%85%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A6-%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A8-%F0%9D%90%AC-activity-7380915215766421504-kdyV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
+  <img src="meta-hacker-cup.png" width="390px" />
+</a>
+
   
   
     
