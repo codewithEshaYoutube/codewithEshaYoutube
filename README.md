@@ -99,7 +99,7 @@
 
 - **[@Stanford Code in Place 2025](https://codeinplace.stanford.edu/)** - [Selected](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-stanforduniversity-sectionleader2025-activity-7316534267864346624-WdH_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) to serve as a [**Section Leader**](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place) for **Code in Place 2025**, a global teaching program by Stanford University, where I'll mentor students worldwide and help deliver Stanford's CS106A curriculum.
 
-
+ 
 
 - **[@UC Berkeley CALICO Spring 2025](https://github.com/codewithEshaYoutube/UC_Berkley_CALICO_Spring-25/)**: [Participated](https://www.linkedin.com/posts/esha-tariqdev_ucberkeley-calicospring2025-globalcodingchallenge-activity-7322124227514368001-HKew?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) in UC Berkeley's Global Coding Challenge **CALICO Spring 2025**, where my team *Runtime Terror* solved multiple AI-proof hard problems and ranked **86th internationally**.
 - **[@NASA Space Apps Challenge 2025](https://www.spaceappschallenge.org/2025/find-a-team/orbitx-engineers/?tab=project)** – [Presented ](https://www.linkedin.com/posts/esha-tariqdev_nasa-spaceapps2025-orbitxengineers-activity-7380915215766421504-LHiL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) the project as a global solution [**AgriVerse**](https://saqlain143.github.io/AgriVerse/),  leveraging AI for sustainable agriculture, as part of [**Team OrbitX Engineers**](https://github.com/codewithEshaYoutube/NASA_SPACE_APP_CHALLENGE_2025/) at NASA’s international hackathon. 
