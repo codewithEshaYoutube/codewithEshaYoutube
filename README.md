@@ -263,17 +263,24 @@
 </h1>
 <br>
 
-<!-- 🔹 First Row: Streak + Stats (smaller side by side) -->
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=codewithEshaYoutube&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Streak" /></a>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=codewithEshaYoutube&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" width="340"/>
-</p>
+## GitHub Code Contributions & Language Proficiency
 
-<!-- 🔸 Second Row: Top Languages (centered and slightly wider) -->
-<p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=codewithEshaYoutube&hide=html&langs_count=6&layout=compact&theme=react&border_radius=10" alt="Top Languages" width="340"/>
-</p>
+<div align="center">
+
+<!-- YouTube -->
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codewithEshaYoutube)
+
+<!-- GitHub General Stats -->
+<img width="65%" src="https://github-stats-mu-nine.vercel.app/api?username=codewithEshaYoutube&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=react&hide_border=true" alt="GitHub Stats"/>
+
+<!-- Top Languages -->
+<img width="33%" src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=codewithEshaYoutube&theme=react&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
+
+<!-- GitHub Streak -->
+<img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithEshaYoutube&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+
+
+
 
 
  # Completed International Hackathons🥇:
