@@ -265,9 +265,7 @@
 
 <!-- 🔹 First Row: Streak + Stats (smaller side by side) -->
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=codewithEshaYoutube&theme=react" alt="GitHub Streak" width="340"/>
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=codewithEshaYoutube&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Streak" /></a>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=codewithEshaYoutube&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" width="340"/>
 </p>
