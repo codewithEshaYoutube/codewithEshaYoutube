@@ -268,7 +268,6 @@
 <div align="center">
 
 <!-- YouTube -->
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codewithEshaYoutube)
 
 <!-- GitHub General Stats -->
 <img width="65%" src="https://github-stats-mu-nine.vercel.app/api?username=codewithEshaYoutube&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=react&hide_border=true" alt="GitHub Stats"/>
