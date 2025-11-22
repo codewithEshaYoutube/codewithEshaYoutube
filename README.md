@@ -76,7 +76,7 @@
 
 | Role & Course                                                                                                         | Status | Credential |
 | :-------------------------------------------------------------------------------------------------------------------- | :----: | :--------: |
-| [Code in Place Section Leader @ Stanford University – CS106A (Python Fundamentals)](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place) | [Completed](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-stanfordcip-pythonlearning-activity-7334268281068969984-Fp4-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) | 🎖️ [Stanford Verified Digital Credential](https://digitalcredential.stanford.edu/check/68D4A9D4F7D8950EC46ED44D73066D0D52735F6086C003AD37A11735E1A4D5A5dmdhTEFKZkxOeFdGekszZDZaSXZLQ2VuTWoxWkZFbGhGQktuazVSOFpXY01yZFYw) |
+| [Code in Place Section Leader @ Stanford University – CS106A (Python Fundamentals Trainer)](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place) | [Completed](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-stanfordcip-pythonlearning-activity-7334268281068969984-Fp4-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) | 🎖️ [Stanford Verified Digital Credential](https://digitalcredential.stanford.edu/check/68D4A9D4F7D8950EC46ED44D73066D0D52735F6086C003AD37A11735E1A4D5A5dmdhTEFKZkxOeFdGekszZDZaSXZLQ2VuTWoxWkZFbGhGQktuazVSOFpXY01yZFYw) |
 
 
 
