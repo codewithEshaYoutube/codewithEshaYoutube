@@ -63,10 +63,12 @@
 
 | Session | Status |
 |----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| <a href="https://www.linkedin.com/posts/esha-tariqdev_dsa-grind75-leetcode-activity-7385570814575775744-PDag?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w" target="_blank" rel="noopener noreferrer">7AM PKT DSA Grind 75 LeetCode |  <b><a href="https://www.youtube.com/live/lppfUuNRsxg?si=px5nmsEGk78awQYz">Current</a></b>
-| <a href="https://github.com/codewithEshaYoutube/-11-PM-PKT-Data-Structures-Algorithms-Intermediate/blob/main/README.md" target="_blank" rel="noopener noreferrer">11PM Data Structures & Algorithms</a> | <b><a href="https://www.linkedin.com/posts/esha-tariqdev_dsa-codinginterviewprep-icodeguru-activity-7357117161653305344-AdvI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">Completed</a></b> |
-| <a href="https://github.com/codewithEshaYoutube/2pm_Mastering_DSA_For_Beginners_Course/blob/main/README.md" target="_blank" rel="noopener noreferrer">2PM Mastering DSA For Beginners Course</a> |  <b><a href="https://www.linkedin.com/posts/esha-tariqdev_dsa-python-codewithesha-activity-7350173195594825728-4q4i?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">Completed</a></b> |
+| <a href="#" target="_blank" rel="noopener noreferrer">11PM DSA Advance Session</a> | <b><span style="color:orange;">Current</span></b> |
+| <a href="https://www.linkedin.com/posts/esha-tariqdev_dsa-grind75-leetcode-activity-7385570814575775744-PDag?utm_source=share&utm_medium=member_desktop" target="_blank" rel="noopener noreferrer">7AM PKT DSA Grind 75 LeetCode</a> |  <b><a href="https://www.youtube.com/live/lppfUuNRsxg?si=px5nmsEGk78awQYz">Completed</a></b> |
+| <a href="https://github.com/codewithEshaYoutube/-11-PM-PKT-Data-Structures-Algorithms-Intermediate/blob/main/README.md" target="_blank" rel="noopener noreferrer">11PM Data Structures & Algorithms</a> | <b><a href="https://www.linkedin.com/posts/esha-tariqdev_dsa-codinginterviewprep-icodeguru-activity-7357117161653305344-AdvI">Completed</a></b> |
+| <a href="https://github.com/codewithEshaYoutube/2pm_Mastering_DSA_For_Beginners_Course/blob/main/README.md" target="_blank" rel="noopener noreferrer">2PM Mastertering DSA For Beginners Course</a> |  <b><a href="https://www.linkedin.com/posts/esha-tariqdev_dsa-python-codewithesha-activity-7350173195594825728-4q4i">Completed</a></b> |
 | <a href="https://www.linkedin.com/posts/esha-tariqdev_dsa-algorithms-coding-activity-7299145775840686081-xmXC" target="_blank" rel="noopener noreferrer">Data Structures for Beginners 1.0</a> | <b><a href="https://www.linkedin.com/posts/esha-tariqdev_dsasessions-learningjourney-gratitude-activity-7314356100860981248-nnb9" target="_blank" rel="noopener noreferrer">Completed</a></b> |
+
 
 ---
 
