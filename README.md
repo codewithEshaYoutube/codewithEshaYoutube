@@ -346,7 +346,7 @@
 </a>
 
  <a href="https://www.linkedin.com/posts/esha-tariqdev_metahackercup-meta-competitiveprogramming-activity-7386712082752294915-8qS1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-  <img src="meta-hacker-cup.png" width="390px" />
+  <img src="ibm-watson.webp" width="390px" />
 </a>
   
   
