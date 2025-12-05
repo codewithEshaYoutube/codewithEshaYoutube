@@ -98,6 +98,7 @@
 
 
 
+
 - **[@CS50x Puzzle Day 2025](https://www.linkedin.com/posts/esha-tariqdev_cs50-puzzleday-problemsolving-activity-7314299663879221248-wS5h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)** - [Participated](https://github.com/codewithEshaYoutube/Harvard_CS50x_Puzzle_Day_2025) in Harvard's global logic and problem-solving challenge with a diverse international team and **[won  by solving 9/9 puzzles](https://www.linkedin.com/posts/esha-tariqdev_cs50x-puzzleday2025-catchmeifyoucan-activity-7316545991527038978-HkHU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) securing 1st position**! 🏆  
   
 
@@ -107,7 +108,8 @@
 
 - **[@UC Berkeley CALICO Spring 2025](https://github.com/codewithEshaYoutube/UC_Berkley_CALICO_Spring-25/)**: [Participated](https://www.linkedin.com/posts/esha-tariqdev_ucberkeley-calicospring2025-globalcodingchallenge-activity-7322124227514368001-HKew?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) in UC Berkeley's Global Coding Challenge **CALICO Spring 2025**, where my team *Runtime Terror* solved multiple AI-proof hard problems and ranked **86th internationally**.
 - **[@NASA Space Apps Challenge 2025](https://www.spaceappschallenge.org/2025/find-a-team/orbitx-engineers/?tab=project)** – [Presented ](https://www.linkedin.com/posts/esha-tariqdev_nasa-spaceapps2025-orbitxengineers-activity-7380915215766421504-LHiL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) the project as a global solution [**AgriVerse**](https://saqlain143.github.io/AgriVerse/),  leveraging AI for sustainable agriculture, as part of [**Team OrbitX Engineers**](https://github.com/codewithEshaYoutube/NASA_SPACE_APP_CHALLENGE_2025/) at NASA’s international hackathon. 
-
+- **[@ICPC Asia Topi Regional 2025](https://icpc.global/)** — Participated as **Team The Optimizers** representing my university in this prestigious competitive programming contest.  
+  [Proof](https://www.linkedin.com/posts/esha-tariqdev_icpcasiatopiregional-programmingcompetition-activity-7402721418460778496-15U_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)
 
 -  **[@CSGirlies](https://www.csgirlies.com/)** – [Winner🏆](https://www.linkedin.com/posts/esha-tariqdev_finaura-fintech-agenticai-activity-7355858231094620160-c4SA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) of the **Chaotic Genius Prize** at a U.S.-hosted Hackathon with the project **FinAura**, an Agentic AI financial assistant for Gen Z money management using GPT-4, LangChain, and FastAPI.
 
