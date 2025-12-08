@@ -286,70 +286,80 @@
 
 
 
- # Completed International Hackathons🥇:
+ ## Completed International Hackathons🥇
 
-<p float="left">
- <a href="https://www.linkedin.com/posts/esha-tariqdev_mit2-techcompetition-codewarriors-activity-7287064089481154560-096R?utm_source=share&utm_medium=member_desktop">
-    <img src="MITIT_Winter_Tournament.jpg" width="390px" />
-  </a>
-   <a href="https://www.linkedin.com/posts/esha-tariqdev_hackathon-aiforconnectivity-wavetracker-activity-7289315188493721602-3qMM?utm_source=share&utm_medium=member_desktop">
-    <img src="AI for Connectivity Hackathon.webp" width="390px" />
-  </a>
-  </a>
-   <a href="https://www.linkedin.com/posts/esha-tariqdev_ai-generativeai-hackathon-activity-7294398940097994752-KYXY?utm_source=share&utm_medium=member_desktop">
-    <img src="AIstronauts Space Agents hackathon.webp" width="390px" />
-  </a>
-  <a href="https://www.linkedin.com/posts/esha-tariqdev_hiregeniusai-deepseekai-aijobs-activity-7296944638962114560-ajzC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-    <img src="Deepseek_AI_hackathon.webp" width="390px" />
-  </a>
-  <a href="https://www.linkedin.com/posts/esha-tariqdev_ibmhackathon-graniteai-aiforgood-activity-7299478276316528641-Xu-s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-    <img src="IBM Granite.webp" width="390px" />
-  </a>
-  <a href="https://www.linkedin.com/posts/esha-tariqdev_cs50-puzzleday-problemsolving-activity-7314299663879221248-wS5h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-    <img src="CS50x_puzzle_day.png" width="390px" />
-  </a>
-  <a href="https://www.linkedin.com/posts/esha-tariqdev_cs50-puzzleday-problemsolving-activity-7314299663879221248-wS5h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-    <img src="UC Berkley calico.png" width="390px" height="220px" />
-  </a>
- <a href="https://www.linkedin.com/posts/esha-tariqdev_cs50-puzzleday-problemsolving-activity-7314299663879221248-wS5h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-  <img src="AI genesis hackathon.webp" width="390px" />
-</a>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2px;">
 
-<a href="https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-  <img src="Raise_your_hack.webp" width="390px" />
-</a>
-<a href="https://www.linkedin.com/posts/esha-tariqdev_gpt5hackathon-agentica-aiagents-activity-7366163591009390592-mtbf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-  <img src="gpt5_hackathon.webp" width="390px" />
-</a>
+  <a href="https://www.linkedin.com/posts/esha-tariqdev_mit2-techcompetition-codewarriors-activity-7287064089481154560-096R?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="MITIT_Winter_Tournament.jpg" width="30%" alt="MIT Winter Tournament">
+  </a>
 
-<a href="https://www.linkedin.com/posts/esha-tariqdev_ai-fintech-agenticai-activity-7355295096650530816-ZPnM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-  <img src="CS_girlies_hack.png" width="390px" height="1800px" />
-</a>
+  <a href="https://www.linkedin.com/posts/esha-tariqdev_hackathon-aiforconnectivity-wavetracker-activity-7289315188493721602-3qMM?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="AI for Connectivity Hackathon.webp" width="30%" alt="AI for Connectivity Hackathon">
+  </a>
 
-<a href="https://www.linkedin.com/posts/esha-tariqdev_neuraviahacks2025-aiforgood-hackathon-activity-7366167862064902144-oALt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-  <img src="neuravia.png" width="390px" />
-</a>
-<a href="https://www.linkedin.com/posts/esha-tariqdev_ai-linkedin-hackathon-activity-7375983047143211008-vE79?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-  <img src="Internet_Hack.webp" width="390px" />
-</a>
-<a href="https://www.linkedin.com/posts/esha-tariqdev_neuraviahacks2025-aiforgood-hackathon-activity-7366167862064902144-oALt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-  <img src="Superhack2025.webp" width="390px" />
-</a>
-<a href="https://www.linkedin.com/posts/esha-tariqdev_%F0%9D%90%85%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A6-%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A8-%F0%9D%90%AC-activity-7380915215766421504-kdyV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-  <img src="NASA_Space_App_2025.png" width="390px" />
-</a>
+  <a href="https://www.linkedin.com/posts/esha-tariqdev_ai-generativeai-hackathon-activity-7294398940097994752-KYXY?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="AIstronauts Space Agents hackathon.webp" width="30%" alt="AIstronauts Space Agents Hackathon">
+  </a>
 
- <a href="https://www.linkedin.com/posts/esha-tariqdev_metahackercup-meta-competitiveprogramming-activity-7386712082752294915-8qS1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-  <img src="meta-hacker-cup.png" width="390px" />
-</a>
-</a>
+  <a href="https://www.linkedin.com/posts/esha-tariqdev_hiregeniusai-deepseekai-aijobs-activity-7296944638962114560-ajzC?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="Deepseek_AI_hackathon.webp" width="30%" alt="Deepseek AI Hackathon">
+  </a>
 
- <a href="https://www.linkedin.com/posts/esha-tariqdev_metahackercup-meta-competitiveprogramming-activity-7386712082752294915-8qS1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w">
-  <img src="ibm-watson.webp" width="390px" />
-</a>
-  
-  
-    
+  <a href="https://www.linkedin.com/posts/esha-tariqdev_ibmhackathon-graniteai-aiforgood-activity-7299478276316528641-Xu-s?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="IBM Granite.webp" width="30%" alt="IBM Granite Hackathon">
+  </a>
+
+  <a href="https://www.linkedin.com/posts/esha-tariqdev_cs50-puzzleday-problemsolving-activity-7314299663879221248-wS5h?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="CS50x_puzzle_day.png" width="30%" alt="CS50x Puzzle Day">
+  </a>
+
+  <a href="https://www.linkedin.com/posts/esha-tariqdev_cs50-puzzleday-problemsolving-activity-7314299663879221248-wS5h?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="UC Berkley calico.png" width="30%" alt="UC Berkeley Calico" style="height:auto;">
+  </a>
+
+  <a href="https://www.linkedin.com/posts/esha-tariqdev_cs50-puzzleday-problemsolving-activity-7314299663879221248-wS5h?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="AI genesis hackathon.webp" width="30%" alt="AI Genesis Hackathon">
+  </a>
+
+  <a href="https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="Raise_your_hack.webp" width="30%" alt="Raise Your Hack">
+  </a>
+
+  <a href="https://www.linkedin.com/posts/esha-tariqdev_gpt5hackathon-agentica-aiagents-activity-7366163591009390592-mtbf?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="gpt5_hackathon.webp" width="30%" alt="GPT5 Hackathon">
+  </a>
+
+  <a href="https://www.linkedin.com/posts/esha-tariqdev_ai-fintech-agenticai-activity-7355295096650530816-ZPnM?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="CS_girlies_hack.png" width="30%" alt="CS Girlies Hack" style="height:auto;">
+  </a>
+
+  <a href="https://www.linkedin.com/posts/esha-tariqdev_neuraviahacks2025-aiforgood-hackathon-activity-7366167862064902144-oALt?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="neuravia.png" width="30%" alt="Neuravia Hacks 2025">
+  </a>
+
+  <a href="https://www.linkedin.com/posts/esha-tariqdev_ai-linkedin-hackathon-activity-7375983047143211008-vE79?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="Internet_Hack.webp" width="30%" alt="AI LinkedIn Hackathon">
+  </a>
+
+  <a href="https://www.linkedin.com/posts/esha-tariqdev_neuraviahacks2025-aiforgood-hackathon-activity-7366167862064902144-oALt?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="Superhack2025.webp" width="30%" alt="SuperHack 2025">
+  </a>
+
+  <a href="https://www.linkedin.com/posts/esha-tariqdev_%F0%9D%90%85%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A6-%F0%9D%90%AC%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%AC-%F0%9D%90%AD%F0%9D%90%A8-%F0%9D%90%AC-activity-7380915215766421504-kdyV?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="NASA_Space_App_2025.png" width="30%" alt="NASA Space App 2025">
+  </a>
+
+  <a href="https://www.linkedin.com/posts/esha-tariqdev_metahackercup-meta-competitiveprogramming-activity-7386712082752294915-8qS1?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="meta-hacker-cup.png" width="30%" alt="Meta Hacker Cup">
+  </a>
+
+  <a href="https://www.linkedin.com/posts/esha-tariqdev_metahackercup-meta-competitiveprogramming-activity-7386712082752294915-8qS1?utm_source=share&utm_medium=member_desktop" target="_blank">
+    <img src="ibm-watson.webp" width="30%" alt="IBM Watson Hackathon">
+  </a>
+
+</div>
+
 </p>
 
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
