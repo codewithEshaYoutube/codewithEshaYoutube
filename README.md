@@ -113,6 +113,8 @@
 -  **[@CSGirlies](https://www.csgirlies.com/)** – [Winner🏆](https://www.linkedin.com/posts/esha-tariqdev_finaura-fintech-agenticai-activity-7355858231094620160-c4SA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) of the **Chaotic Genius Prize** at a U.S.-hosted Hackathon with the project **FinAura**, an Agentic AI financial assistant for Gen Z money management using GPT-4, LangChain, and FastAPI.
 
 - **[@Lablab.ai](https://lablab.ai/)** – [Winner🏅](https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma/) at the **RAISE Your Hack** Hackathon (RAISE Summit 2025, Paris) for **VHeal AI**, an Agentic AI hospital discharge copilot with real-time triage and care plans.
+- **[@Advent of Code 2025](https://adventofcode.com/)** — [Completed the full December series](https://www.linkedin.com/posts/esha-tariqdev_adventofcode-codingchallenge-softwareengineering-activity-7405246557706592256-KfsE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) by earning **[all 24 stars](https://github.com/codewithEshaYoutube/Advent_of_Code_Competition)** through **daily coding challenges**. Ranked **Top 15 nationally** and **Top 18 internationally**.
+
 
 - **[@Lablab.ai](https://lablab.ai/u/@eesha_tariq899)** – [Participated](https://lablab.ai/u/@eesha_tariq899) in **12 X global AI hackathons** with **2X International Hackathon Wins**, building Agentic AI apps using GPT-4, FastAPI, Redis, and Streamlit.
 
