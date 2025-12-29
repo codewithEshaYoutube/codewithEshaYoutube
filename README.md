@@ -283,10 +283,7 @@
 <!-- Top Languages -->
 <img width="33%" src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=codewithEshaYoutube&theme=react&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=codewithEshaYoutube&theme=react&hide_border=true)
-
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=codewithEshaYoutube&theme=react&mode=weekly" alt="GitHub Streak" /></a>
 
 
 
