@@ -282,7 +282,6 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=codewithEshaYoutube&theme=react" alt="GitHub Streak" /></a>
 
-
  ## Completed International Hackathons🥇
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2px;">
