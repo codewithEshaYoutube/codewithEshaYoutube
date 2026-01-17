@@ -86,7 +86,7 @@
 - **I'm Esha Tariq** — a Tech Trainer and Software Engineer passionate about AI and innovation.  
 
 
-- **[@Codingal](https://www.codingal.com)** (YC W21) – Global Coding Instructor teaching Python and logic to K–12 students from the US, Australia, UAE, Canada, and India. → [ View Teaching Portfolio](https://github.com/codewithEshaYoutube/Codingal)
+- **[@Codingal](https://www.codingal.com)** (YC W21) – Global Coding Instructor teaching Python , Web development , App development and logic to K–12 students from the US, Australia, UAE, Canada, and India. → [ View Teaching Portfolio](https://github.com/codewithEshaYoutube/Codingal)
 
 
 
