@@ -7,9 +7,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=codewithEshaYoutube&label=Profile%20views&color=e9164b&style=flat" alt="codewithEshaYoutube" /> 
 </p>
- <div style="display: flex; justify-content: center;">
-  <img src="Professional LinkedIn Banner.png" width="800px" />
-</div>
+
  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=I+am+Eesha+Tariq;Tech+Trainer;Software+Engineer" 
          alt="I am Eesha Tariq  | Tech Trainer | Software Engineer" />
