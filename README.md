@@ -281,6 +281,11 @@
   <img src="https://streak-stats.demolab.com?user=codewithEshaYoutube&theme=tokyonight" alt="GitHub Streak"/>
 </a>
 
+## LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/EeshaTariq?theme=dark" width="70%" />
+</p>
 
 ## Completed International Hackathons🥇
 
@@ -356,7 +361,6 @@
 
 </div>
 
-</p>
 
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
