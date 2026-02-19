@@ -360,7 +360,7 @@
     <img src="ibm-watson.webp" width="30%" alt="IBM Watson Hackathon">
   </a>
   <a href="https://www.linkedin.com/posts/esha-tariqdev_metahackercup-meta-competitiveprogramming-activity-7386712082752294915-8qS1?utm_source=share&utm_medium=member_desktop" target="_blank">
-    <img src="gemini_hackathon.png" width="30%" alt="Gemini Hackathon">
+    <img src="gemini_hackathon.png"  height ="100%" width="30%" alt="Gemini Hackathon">
   </a>
 
 </div>
