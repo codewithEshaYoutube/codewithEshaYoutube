@@ -87,19 +87,16 @@
 
 
 - **See My Training** → **[**Recordings 👀**](https://github.com/codewithEshaYoutube/Volunteer_Teaching_Recordings)**- [Student Feedback:]( https://www.linkedin.com/posts/ghalib-ali-8a99022b4_leetcode-problemsolving-criticalthinking-activity-7408987919757045761-MSj5)
-.
-  
+
 - **[@MITIT Coding Competition](https://www.linkedin.com/posts/esha-tariqdev_mit2-techcompetition-codewarriors-activity-7287064089481154560-096R/)**: Participated in MITIT Coding Contest Cup **2025** where my team solved challenging problems and ranked 104th.
 - **[Meta Hacker Cup 2025](https://www.facebook.com/codingcompetitions/hacker-cup/)** — [Advanced](https://github.com/codewithEshaYoutube/Meta_Hacker_Cup_2025) from **Practice Round → Round 1 → Round 2** in Meta’s global competitive programming challenge, placing among the **[top 5% worldwide](https://www.linkedin.com/posts/esha-tariqdev_metahackercup-meta-competitiveprogramming-activity-7386712082752294915-8qS1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)**, demonstrating advanced algorithmic and problem-solving expertise.
-- 
-
-
 
 
 - **[@CS50x Puzzle Day 2025](https://www.linkedin.com/posts/esha-tariqdev_cs50-puzzleday-problemsolving-activity-7314299663879221248-wS5h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)** - [Participated](https://github.com/codewithEshaYoutube/Harvard_CS50x_Puzzle_Day_2025) in Harvard's global logic and problem-solving challenge with a diverse international team and **[won  by solving 9/9 puzzles](https://www.linkedin.com/posts/esha-tariqdev_cs50x-puzzleday2025-catchmeifyoucan-activity-7316545991527038978-HkHU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) securing 1st position**! 🏆  
   
 
 - **[@Stanford Code in Place 2025](https://codeinplace.stanford.edu/)** - [Selected](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-stanforduniversity-sectionleader2025-activity-7316534267864346624-WdH_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) to serve as a [**Section Leader(Trainer)**](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place) for **Code in Place 2025**, a global teaching program by Stanford University, where I'll mentor students worldwide and help deliver Stanford's CS106A curriculum.
+
 
  
 
