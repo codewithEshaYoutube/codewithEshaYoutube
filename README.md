@@ -39,9 +39,7 @@
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
 
- <a href="https://codewitheshayoutube.github.io/EshaTariq.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+
 
 
 </div>
