@@ -274,7 +274,7 @@
 <!-- Top Languages -->
 <img width="33%" src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=codewithEshaYoutube&theme=react&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=codewithEshaYoutube&theme=tokyonight" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=codewithEshaYoutube&theme=tokyonight" alt="GitHub Streak" />
 </a>
 
 ## LeetCode Stats
