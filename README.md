@@ -273,7 +273,7 @@
 <!-- Top Languages -->
 <img width="33%" src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=codewithEshaYoutube&theme=react&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=codewithEshaYoutube" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=codewithEshaYoutube&theme=tokyonight" alt="GitHub Streak" /></a>
 ## LeetCode Stats
 
 <p align="center">
@@ -364,6 +364,7 @@
 
   <br/><br/><br/>
 </div>
+
 
 
 <h3 align="center">
