@@ -1,4 +1,4 @@
-                                                                                                                                                                                                                 
+
 <div align="center">    
 
 # Top [![committers.top badge](https://user-badge.committers.top/pakistan/codewithEshaYoutube.svg)](https://user-badge.committers.top/pakistan/codewithEshaYoutube)th Pakistani Github Contributor  
@@ -272,8 +272,13 @@
 
 <!-- Top Languages -->
 <img width="33%" src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=codewithEshaYoutube&theme=react&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
-## LeetCode Stats
+<img
+  width="60%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=codewithEshaYoutube&show_icons=true&locale=en&layout=demo&theme=tokyonight&hide_border=true"
+/>
 
+
+## LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/EeshaTariq?theme=dark" width="70%" />
 </p>
