@@ -85,16 +85,9 @@ Tech Trainer and Software Engineer specializing in **AI, Generative AI, and full
 
 ---
 
-## Teaching & Mentorship
-- **[@Codingal (YC W21)](https://www.codingal.com)** – Global Coding Instructor teaching Python, Web, App development, and logic to K–12 students across the **US, Australia, UAE, Canada, and India** → [Teaching Portfolio](https://github.com/codewithEshaYoutube/Codingal).  
-- **[Volunteer Teaching Recordings](https://github.com/codewithEshaYoutube/Volunteer_Teaching_Recordings)** – Mentored 150+ students in **Python & DSA**. Student highlights: [1](https://www.linkedin.com/posts/ghalib-ali-8a99022b4_leetcode-problemsolving-criticalthinking-activity-7408987919757045761-MSj), [2](https://www.linkedin.com/posts/uzma-shahzad_computerscience-leetcode-coding-activity-7437415427972079616-L9v9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w).  
-- **[@Stanford Code in Place 2025](https://codeinplace.stanford.edu/)** – Selected as **Section Leader & Mentor**, teaching 100+ students worldwide Python & CS106A → [Stanford Section Leader](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place).  
-- **Hackathon Judge & Mentor** – Mentored participants at **CS Girlies, Lablab.ai, RAISE Your Hack** and other international hackathons → [Lablab.ai Profile](https://lablab.ai/u/@eesha_tariq899).  
-
----
 
 ## Research & AI Projects
-- **[MIT Critical Data Lab Internship 2025](https://mitbih.github.io/)** – Conducted research on predictive healthcare using multi-modal clinical datasets and LLM pipelines.  
+- **[MIT Critical Data Lab](https://mitbih.github.io/)** – Conducted research on predictive healthcare using multi-modal clinical datasets and LLM pipelines.  
 - **[VHeal AI – RAISE Your Hack, Paris 2025](https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma/)** – Agentic AI hospital discharge co-pilot; Top 5 globally among 923 teams.  
 - **[FinAura – CS Girlies Hackathon](https://www.linkedin.com/posts/esha-tariqdev_finaura-fintech-agenticai-activity-7355858231094620160-c4SA)** – AI financial assistant for Gen Z; Winner, Chaotic Genius Award.  
 - **[AgriVerse – NASA Space Apps Challenge 2025](https://www.spaceappschallenge.org/2025/find-a-team/orbitx-engineers/?tab=project)** – AI for sustainable agriculture; Team OrbitX Engineers → [Project GitHub](https://github.com/codewithEshaYoutube/NASA_SPACE_APP_CHALLENGE_2025/).  
@@ -102,6 +95,13 @@ Tech Trainer and Software Engineer specializing in **AI, Generative AI, and full
 
 ---
 
+## Teaching & Mentorship
+- **[@Codingal (YC W21)](https://www.codingal.com)** – Global Coding Instructor teaching Python, Web, App development, and logic to K–12 students across the **US, Australia, UAE, Canada, and India** → [Teaching Portfolio](https://github.com/codewithEshaYoutube/Codingal).  
+- **[Volunteer Teaching Recordings](https://github.com/codewithEshaYoutube/Volunteer_Teaching_Recordings)** – Mentored 150+ students in **Python & DSA**. Student highlights: [1](https://www.linkedin.com/posts/ghalib-ali-8a99022b4_leetcode-problemsolving-criticalthinking-activity-7408987919757045761-MSj), [2](https://www.linkedin.com/posts/uzma-shahzad_computerscience-leetcode-coding-activity-7437415427972079616-L9v9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w).  
+- **[@Stanford Code in Place 2025](https://codeinplace.stanford.edu/)** – Selected as **Section Leader & Mentor**, teaching 100+ students worldwide Python & CS106A → [Stanford Section Leader](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place).  
+- **Hackathon Judge & Mentor** – Mentored participants at **CS Girlies, Lablab.ai, RAISE Your Hack** and other international hackathons → [Lablab.ai Profile](https://lablab.ai/u/@eesha_tariq899).  
+
+---
 ## Global Competitions & Achievements
 - **[Harvard CS50x Puzzle Day 2025](https://github.com/codewithEshaYoutube/Harvard_CS50x_Puzzle_Day_2025)** – 1st Place Globally, solved all 9/9 puzzles.  
 - **[Meta Hacker Cup 2025](https://github.com/codewithEshaYoutube/Meta_Hacker_Cup_2025)** – Advanced Round; Top 5% worldwide → [Proof](https://www.linkedin.com/posts/esha-tariqdev_metahackercup-meta-competitiveprogramming-activity-7386712082752294915-8qS1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w).  
