@@ -78,10 +78,8 @@
 
 
 ---
-# Eesha Tariq  
-Software Engineer | AI Researcher | Global Tech Mentor
+#Software Engineer | AI Researcher | Global Tech Mentor
 
-Tech Trainer and Software Engineer specializing in **AI, Generative AI, and full-stack development**. Experienced in international competitions, high-impact research, hackathon mentorship, and teaching 150+ underprivileged students globally in **Python, DSA, and web development**.  
 
 ---
 
@@ -96,11 +94,11 @@ Tech Trainer and Software Engineer specializing in **AI, Generative AI, and full
 ---
 
 ## Teaching & Mentorship
-- **[@Codingal (YC W21)](https://www.codingal.com)** – Global Coding Instructor teaching Python, Web, App development, and logic to K–12 students across the **US, Australia, UAE, Canada, and India** → [Teaching Portfolio](https://github.com/codewithEshaYoutube/Codingal).  
-- **[Volunteer Teaching Recordings](https://github.com/codewithEshaYoutube/Volunteer_Teaching_Recordings)** – Mentored 150+ students in **Python & DSA**. Student highlights: [1](https://www.linkedin.com/posts/ghalib-ali-8a99022b4_leetcode-problemsolving-criticalthinking-activity-7408987919757045761-MSj), [2](https://www.linkedin.com/posts/uzma-shahzad_computerscience-leetcode-coding-activity-7437415427972079616-L9v9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w).  
+- **[@Codingal (YC W21)](https://www.codingal.com)** – Global Coding Instructor teaching Python, Web development, App development, and logic to K–12 students across the **US, Australia, UAE, Canada, and India** → [Teaching Portfolio](https://github.com/codewithEshaYoutube/Codingal).  
+- **[Volunteer Teaching Recordings](https://github.com/codewithEshaYoutube/Volunteer_Teaching_Recordings)** – Mentored 150+ underprivileged students in **Python, DSA, and web development**. Student highlights: [1](https://www.linkedin.com/posts/ghalib-ali-8a99022b4_leetcode-problemsolving-criticalthinking-activity-7408987919757045761-MSj), [2](https://www.linkedin.com/posts/uzma-shahzad_computerscience-leetcode-coding-activity-7437415427972079616-L9v9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w).  
 - **[@Stanford Code in Place 2025](https://codeinplace.stanford.edu/)** – Selected as **Section Leader & Mentor**, teaching 100+ students worldwide Python & CS106A → [Stanford Section Leader](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place).  
-- **Hackathon Judge & Mentor** – Mentored participants at **CS Girlies, Lablab.ai, RAISE Your Hack** and other international hackathons → [Lablab.ai Profile](https://lablab.ai/u/@eesha_tariq899).  
-
+- **Silicon Valley Organization – Global Teaching Initiative** – Delivered Python and DSA workshops to international undergraduate students, focusing on hands-on coding, algorithms, and AI applications → [Session Recordings](https://github.com/codewithEshaYoutube/Volunteer_Teaching_Recordings).  
+- **Hackathon Judge & Mentor** – Mentored participants at **CS Girlies, Lablab.ai, RAISE Your Hack**, and other international hackathons → [Lablab.ai Profile](https://lablab.ai/u/@eesha_tariq899).  
 ---
 ## Global Competitions & Achievements
 - **[Harvard CS50x Puzzle Day 2025](https://github.com/codewithEshaYoutube/Harvard_CS50x_Puzzle_Day_2025)** – 1st Place Globally, solved all 9/9 puzzles.  
