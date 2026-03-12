@@ -78,47 +78,52 @@
 
 
 ---
-- **I'm Esha Tariq** — a Tech Trainer and Software Engineer passionate about AI and innovation.  
+# Eesha Tariq  
+Software Engineer | AI Researcher | Global Tech Mentor
+
+Tech Trainer and Software Engineer specializing in **AI, Generative AI, and full-stack development**. Experienced in international competitions, high-impact research, hackathon mentorship, and teaching 150+ underprivileged students globally in **Python, DSA, and web development**.  
+
+---
+
+## Teaching & Mentorship
+- **[@Codingal (YC W21)](https://www.codingal.com)** – Global Coding Instructor teaching Python, Web, App development, and logic to K–12 students across the **US, Australia, UAE, Canada, and India** → [Teaching Portfolio](https://github.com/codewithEshaYoutube/Codingal).  
+- **[Volunteer Teaching Recordings](https://github.com/codewithEshaYoutube/Volunteer_Teaching_Recordings)** – Mentored 150+ students in **Python & DSA**. Student highlights: [1](https://www.linkedin.com/posts/ghalib-ali-8a99022b4_leetcode-problemsolving-criticalthinking-activity-7408987919757045761-MSj), [2](https://www.linkedin.com/posts/uzma-shahzad_computerscience-leetcode-coding-activity-7437415427972079616-L9v9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w).  
+- **[@Stanford Code in Place 2025](https://codeinplace.stanford.edu/)** – Selected as **Section Leader & Mentor**, teaching 100+ students worldwide Python & CS106A → [Stanford Section Leader](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place).  
+- **Hackathon Judge & Mentor** – Mentored participants at **CS Girlies, Lablab.ai, RAISE Your Hack** and other international hackathons → [Lablab.ai Profile](https://lablab.ai/u/@eesha_tariq899).  
+
+---
+
+## Research & AI Projects
+- **[MIT Critical Data Lab Internship 2025](https://mitbih.github.io/)** – Conducted research on predictive healthcare using multi-modal clinical datasets and LLM pipelines.  
+- **[VHeal AI – RAISE Your Hack, Paris 2025](https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma/)** – Agentic AI hospital discharge co-pilot; Top 5 globally among 923 teams.  
+- **[FinAura – CS Girlies Hackathon](https://www.linkedin.com/posts/esha-tariqdev_finaura-fintech-agenticai-activity-7355858231094620160-c4SA)** – AI financial assistant for Gen Z; Winner, Chaotic Genius Award.  
+- **[AgriVerse – NASA Space Apps Challenge 2025](https://www.spaceappschallenge.org/2025/find-a-team/orbitx-engineers/?tab=project)** – AI for sustainable agriculture; Team OrbitX Engineers → [Project GitHub](https://github.com/codewithEshaYoutube/NASA_SPACE_APP_CHALLENGE_2025/).  
+- **[Agentic AI Hackathon Apps – Lablab.ai](https://lablab.ai/u/@eesha_tariq899)** – Participated in 12+ global AI hackathons, 2X international wins, using GPT-4, FastAPI, Redis, and Streamlit.  
+
+---
+
+## Global Competitions & Achievements
+- **[Harvard CS50x Puzzle Day 2025](https://github.com/codewithEshaYoutube/Harvard_CS50x_Puzzle_Day_2025)** – 1st Place Globally, solved all 9/9 puzzles.  
+- **[Meta Hacker Cup 2025](https://github.com/codewithEshaYoutube/Meta_Hacker_Cup_2025)** – Advanced Round; Top 5% worldwide → [Proof](https://www.linkedin.com/posts/esha-tariqdev_metahackercup-meta-competitiveprogramming-activity-7386712082752294915-8qS1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w).  
+- **[UC Berkeley CALICO Spring 2025](https://github.com/codewithEshaYoutube/UC_Berkley_CALICO_Spring-25/)** – Ranked 86th globally.  
+- **[Advent of Code 2025](https://github.com/codewithEshaYoutube/Advent_of_Code_Competition)** – Completed all 24 stars; Top 18 internationally, Top 3 nationally (Females).  
+- **[MITIT Coding Competition 2025](https://www.linkedin.com/posts/esha-tariqdev_mit2-techcompetition-codewarriors-activity-7287064089481154560-096R/)** – Ranked 104th globally.  
+- **[ICPC Asia Topi Regional 2025](https://icpc.global/)** – Represented university in competitive programming contest → [Proof](https://www.linkedin.com/posts/esha-tariqdev_icpcasiatopiregional-programmingcompetition-activity-7402721418460778496-15U_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w).  
+
+---
+
+## Open Source & GitHub
+- **[Top GitHub Contributor](https://user-badge.committers.top/pakistan/codewithEshaYoutube)** – Top 11 nationally with 420+ consecutive days of contributions.  
+- Built multiple open-source projects in **Python, FastAPI, React.js, GPT-4, LangChain, Streamlit** → [GitHub Portfolio](https://github.com/codewithEshaYoutube).  
+
+---
 
 
-- **[@Codingal](https://www.codingal.com)** (YC W21) – Global Coding Instructor teaching Python , Web development , App development and logic to K–12 students from the US, Australia, UAE, Canada, and India. → [ View Teaching Portfolio](https://github.com/codewithEshaYoutube/Codingal)
 
+## Professional Experience
+- Full Stack Developer – **South Xclusive (UAE), Vialogic (UK), Wallafan (Spain), Gutech International LLC (US)**  
 
-
-- **See My Training** → **[**Recordings 👀**](https://github.com/codewithEshaYoutube/Volunteer_Teaching_Recordings)**- [Student 1]( https://www.linkedin.com/posts/ghalib-ali-8a99022b4_leetcode-problemsolving-criticalthinking-activity-7408987919757045761-MSj) , [Student 2](https://www.linkedin.com/posts/uzma-shahzad_computerscience-leetcode-coding-activity-7437415427972079616-L9v9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w).
-- **[@MITIT Coding Competition](https://www.linkedin.com/posts/esha-tariqdev_mit2-techcompetition-codewarriors-activity-7287064089481154560-096R/)**: Participated in MITIT Coding Contest Cup **2025** where my team solved challenging problems and ranked 104th.
-- **[Meta Hacker Cup 2025](https://www.facebook.com/codingcompetitions/hacker-cup/)** — [Advanced](https://github.com/codewithEshaYoutube/Meta_Hacker_Cup_2025) from **Practice Round → Round 1 → Round 2** in Meta’s global competitive programming challenge, placing among the **[top 5% worldwide](https://www.linkedin.com/posts/esha-tariqdev_metahackercup-meta-competitiveprogramming-activity-7386712082752294915-8qS1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)**, demonstrating advanced algorithmic and problem-solving expertise.
-
-
-- **[@CS50x Puzzle Day 2025](https://www.linkedin.com/posts/esha-tariqdev_cs50-puzzleday-problemsolving-activity-7314299663879221248-wS5h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)** - [Participated](https://github.com/codewithEshaYoutube/Harvard_CS50x_Puzzle_Day_2025) in Harvard's global logic and problem-solving challenge with a diverse international team and **[won  by solving 9/9 puzzles](https://www.linkedin.com/posts/esha-tariqdev_cs50x-puzzleday2025-catchmeifyoucan-activity-7316545991527038978-HkHU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) securing 1st position**! 🏆  
-  
-
-- **[@Stanford Code in Place 2025](https://codeinplace.stanford.edu/)** - [Selected](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-stanforduniversity-sectionleader2025-activity-7316534267864346624-WdH_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) to serve as a [**Section Leader(Trainer)**](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place) for **Code in Place 2025**, a global teaching program by Stanford University, where I'll mentor students worldwide and help deliver Stanford's CS106A curriculum.
-
-
- 
-
-- **[@UC Berkeley CALICO Spring 2025](https://github.com/codewithEshaYoutube/UC_Berkley_CALICO_Spring-25/)**: [Participated](https://www.linkedin.com/posts/esha-tariqdev_ucberkeley-calicospring2025-globalcodingchallenge-activity-7322124227514368001-HKew?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) in UC Berkeley's Global Coding Challenge **CALICO Spring 2025**, where my team *Runtime Terror* solved multiple AI-proof hard problems and ranked **86th internationally**.
-- **[@NASA Space Apps Challenge 2025](https://www.spaceappschallenge.org/2025/find-a-team/orbitx-engineers/?tab=project)** – [Presented ](https://www.linkedin.com/posts/esha-tariqdev_nasa-spaceapps2025-orbitxengineers-activity-7380915215766421504-LHiL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) the project as a global solution [**AgriVerse**](https://saqlain143.github.io/AgriVerse/),  leveraging AI for sustainable agriculture, as part of [**Team OrbitX Engineers**](https://github.com/codewithEshaYoutube/NASA_SPACE_APP_CHALLENGE_2025/) at NASA’s international hackathon. 
-- **[@ICPC Asia Topi Regional 2025](https://icpc.global/)** — Participated as **Team The Optimizers** representing my university in this prestigious competitive programming contest.[Proof](https://www.linkedin.com/posts/esha-tariqdev_icpcasiatopiregional-programmingcompetition-activity-7402721418460778496-15U_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)
-
--  **[@CSGirlies](https://www.csgirlies.com/)** – [Winner🏆](https://www.linkedin.com/posts/esha-tariqdev_finaura-fintech-agenticai-activity-7355858231094620160-c4SA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) of the **Chaotic Genius Prize** at a U.S.-hosted Hackathon with the project **FinAura**, an Agentic AI financial assistant for Gen Z money management using GPT-4, LangChain, and FastAPI.
-
-- **[@Lablab.ai](https://lablab.ai/)** – [Winner🏅](https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma/) at the **RAISE Your Hack** Hackathon (RAISE Summit 2025, Paris) for **VHeal AI**, an Agentic AI hospital discharge copilot with real-time triage and care plans.
-- **[@Advent of Code 2025](https://adventofcode.com/)** — [Completed the full December series](https://www.linkedin.com/posts/esha-tariqdev_adventofcode-codingchallenge-softwareengineering-activity-7405246557706592256-KfsE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w), earning **[all 24 stars](https://github.com/codewithEshaYoutube/Advent_of_Code_Competition)** through **daily coding challenges**, ranking **Top 3 nationally (Females)**, **Top 15 nationally**, and **Top 18 internationally**.
-
-
-
-- **[@Lablab.ai](https://lablab.ai/u/@eesha_tariq899)** – [Participated](https://lablab.ai/u/@eesha_tariq899) in **12 X global AI hackathons** with **2X International Hackathon Wins**, building Agentic AI apps using GPT-4, FastAPI, Redis, and Streamlit.
-
-- **[@Typing Speed](https://www.linkedin.com/posts/esha-tariqdev_typingskills-productivity-efficiency-activity-7383419702238396417-CbaL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w)**: 70 WPM — boosts efficiency in implementing and testing AI models.  
-
-
-- Worked as Full Stack Developer at South Xclusive Properties (UAE), Vialogic (United Kingdom), Wallafan (Spain), Gutech International LLC (United States)
-
-
-
-</div>
+---
 
 
 ## Some Community Projects & Resources
