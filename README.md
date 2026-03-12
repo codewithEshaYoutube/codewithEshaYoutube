@@ -78,10 +78,9 @@
 
 
 ---
-#Software Engineer | AI Researcher | Global Tech Mentor
+I am Eesha Tariq ,Software Engineering undergrad student.
 
 
----
 
 
 ## Research & AI Projects
