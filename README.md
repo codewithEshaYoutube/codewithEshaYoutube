@@ -34,16 +34,14 @@
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://stackoverflow.com/users/24487713/developer-esha" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+
+<a href="https://topmate.io/esha_tariq/" target="_blank">
+  <img src="https://img.shields.io/badge/Topmate-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+  <a href="https://www.kaggle.com/eeshatariqdev" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-
-  <a href="https://www.upwork.com/freelancers/eeshat3" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
-
-
-
 
 </div>
 
