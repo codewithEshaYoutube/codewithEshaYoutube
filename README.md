@@ -88,7 +88,7 @@ I am Eesha Tariq ,Software Engineering undergrad student.
 - **[VHeal AI – RAISE Your Hack, Paris 2025](https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma/)** – Agentic AI hospital discharge co-pilot; Top 5 globally among 923 teams.  
 - **[FinAura – CS Girlies Hackathon](https://www.linkedin.com/posts/esha-tariqdev_finaura-fintech-agenticai-activity-7355858231094620160-c4SA)** – AI financial assistant for Gen Z; Winner, Chaotic Genius Award.  
 - **[AgriVerse – NASA Space Apps Challenge 2025](https://www.spaceappschallenge.org/2025/find-a-team/orbitx-engineers/?tab=project)** – AI for sustainable agriculture; Team OrbitX Engineers → [Project GitHub](https://github.com/codewithEshaYoutube/NASA_SPACE_APP_CHALLENGE_2025/).  
-- **[Agentic AI Hackathon Apps – Lablab.ai](https://lablab.ai/u/@eesha_tariq899)** – Participated in 12+ global AI hackathons, 2X international wins, using GPT-4, FastAPI, Redis, and Streamlit.  
+- **[Agentic AI Hackathon Apps – Lablab.ai](https://lablab.ai/u/@eesha_tariq899)** – Participated in **15+ Internationl** AI hackathons, 2X international wins, using GPT-4, FastAPI, Redis, and Streamlit.  
 
 ---
 
