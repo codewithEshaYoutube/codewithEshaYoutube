@@ -133,11 +133,6 @@ I am Eesha Tariq ,Software Engineering undergrad student.
 | [**Learn Python in 2 Months**](https://github.com/codewithEshaYoutube/Python-CS50)                               | [![GitHub issues](https://img.shields.io/github/issues/codewithEshaYoutube/Python-CS50?color=green&logo=github&style=flat)](https://github.com/codewithEshaYoutube/Python-CS50/issues)                           | [![GitHub PRs](https://img.shields.io/github/issues-pr/codewithEshaYoutube/Python-CS50?style=flat&logo=github)](https://github.com/codewithEshaYoutube/Python-CS50/pulls)                                | [![Closed PRs](https://img.shields.io/github/issues-pr-closed/codewithEshaYoutube/Python-CS50?style=flat&color=critical&logo=github)](https://github.com/codewithEshaYoutube/Python-CS50/pulls?q=is%3Apr+is%3Aclosed)                              |
 
 
-<!--   ## Consistency👨‍💻
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadjajja&" alt="ahmadjajja" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadjajja&show_icons=true&locale=en&layout=compact" alt="ahmadjajja" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadjajja&show_icons=true&locale=en" alt="ahmadjajja" /></p>  -->
-
 <a href="https://www.upwork.com/freelancers/eeshat3" target="_blank" style="
   display: inline-block;
   background-color: #0077b5;
@@ -275,10 +270,7 @@ I am Eesha Tariq ,Software Engineering undergrad student.
 
 <!-- Top Languages -->
 <img width="33%" src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=codewithEshaYoutube&theme=react&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
-<img
-  width="60%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=codewithEshaYoutube&show_icons=true&locale=en&layout=demo&theme=tokyonight&hide_border=true"
-/>
+
 
 
 ## LeetCode Stats
