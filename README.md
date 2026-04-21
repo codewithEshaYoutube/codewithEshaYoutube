@@ -122,14 +122,7 @@ I am Eesha Tariq ,Software Engineering undergrad student.
 ---
 
 
-## Some Community Projects & Resources
-| Project :octocat:                                                                                              | Issues :bug:                                                                                                                                                                                                        | Open PRs :bell:                                                                                                                                                                                         | Closed PRs :fire:                                                                                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**Tech Books**](https://github.com/codewithEshaYoutube/Tech-Books)                                              | [![GitHub issues](https://img.shields.io/github/issues/codewithEshaYoutube/Tech-Books?color=green&logo=github&style=flat)](https://github.com/codewithEshaYoutube/Tech-Books/issues)                             | [![GitHub PRs](https://img.shields.io/github/issues-pr/codewithEshaYoutube/Tech-Books?style=flat&logo=github)](https://github.com/codewithEshaYoutube/Tech-Books/pulls)                                          | [![Closed PRs](https://img.shields.io/github/issues-pr-closed/codewithEshaYoutube/Tech-Books?style=flat&color=critical&logo=github)](https://github.com/codewithEshaYoutube/Tech-Books/pulls?q=is%3Apr+is%3Aclosed)  |
-| [**Learn Python Data Analytics in 3 Months**](https://github.com/codewithEshaYoutube/Corvit_Python_Data_Analytics_Course)  | [![GitHub issues](https://img.shields.io/github/issues/codewithEshaYoutube/Corvit_Python_Data_Analytics_Course?color=green&logo=github&style=flat)](https://github.com/codewithEshaYoutube/Corvit_Python_Data_Analytics_Course/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/codewithEshaYoutube/Corvit_Python_Data_Analytics_Course?style=flat&logo=github)](https://github.com/codewithEshaYoutube/Corvit_Python_Data_Analytics_Course/pulls) | [![Closed PRs](https://img.shields.io/github/issues-pr-closed/codewithEshaYoutube/Corvit_Python_Data_Analytics_Course?style=flat&color=critical&logo=github)](https://github.com/codewithEshaYoutube/Corvit_Python_Data_Analytics_Course/pulls?q=is%3Apr+is%3Aclosed) |
-| [**Hire Genius AI**](https://github.com/codewithEshaYoutube/HireGenius_Ai)                                        | [![GitHub issues](https://img.shields.io/github/issues/codewithEshaYoutube/HireGenius_Ai?color=green&logo=github&style=flat)](https://github.com/codewithEshaYoutube/HireGenius_Ai/issues)                        | [![GitHub PRs](https://img.shields.io/github/issues-pr/codewithEshaYoutube/HireGenius_Ai?style=flat&logo=github)](https://github.com/codewithEshaYoutube/HireGenius_Ai/pulls)                            | [![Closed PRs](https://img.shields.io/github/issues-pr-closed/codewithEshaYoutube/HireGenius_Ai?style=flat&color=critical&logo=github)](https://github.com/codewithEshaYoutube/HireGenius_Ai/pulls?q=is%3Apr+is%3Aclosed)                             |
-| [**Wave Tracker**](https://github.com/codewithEshaYoutube/wave-tracker)                                          | [![GitHub issues](https://img.shields.io/github/issues/codewithEshaYoutube/wave-tracker?color=green&logo=github&style=flat)](https://github.com/codewithEshaYoutube/wave-tracker/issues)                            | [![GitHub PRs](https://img.shields.io/github/issues-pr/codewithEshaYoutube/wave-tracker?style=flat&logo=github)](https://github.com/codewithEshaYoutube/wave-tracker/pulls)                               | [![Closed PRs](https://img.shields.io/github/issues-pr-closed/codewithEshaYoutube/wave-tracker?style=flat&color=critical&logo=github)](https://github.com/codewithEshaYoutube/wave-tracker/pulls?q=is%3Apr+is%3Aclosed)                             |
-| [**Learn Python in 2 Months**](https://github.com/codewithEshaYoutube/Python-CS50)                               | [![GitHub issues](https://img.shields.io/github/issues/codewithEshaYoutube/Python-CS50?color=green&logo=github&style=flat)](https://github.com/codewithEshaYoutube/Python-CS50/issues)                           | [![GitHub PRs](https://img.shields.io/github/issues-pr/codewithEshaYoutube/Python-CS50?style=flat&logo=github)](https://github.com/codewithEshaYoutube/Python-CS50/pulls)                                | [![Closed PRs](https://img.shields.io/github/issues-pr-closed/codewithEshaYoutube/Python-CS50?style=flat&color=critical&logo=github)](https://github.com/codewithEshaYoutube/Python-CS50/pulls?q=is%3Apr+is%3Aclosed)                              |
+
 
 
 <a href="https://www.upwork.com/freelancers/eeshat3" target="_blank" style="
@@ -270,13 +263,48 @@ I am Eesha Tariq ,Software Engineering undergrad student.
 <!-- Top Languages -->
 <img width="33%" src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=codewithEshaYoutube&theme=react&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=codewithEshaYoutube&theme=tokyonight" alt="GitHub Streak" /></a>
+
+<div align="center">
+
+<!-- GitHub Stats -->
+
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=codewithEshaYoutube&theme=tokyonight" />
+</a>
+
+</div>
+
+---
 
 ## LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/EeshaTariq?theme=dark" width="70%" />
 </p>
 
+---
+
+## Projects I Built
+
+| # | Project Name | Description |
+|---|-------------|-------------|
+| 1 | [**AceMed AI**](https://github.com/codewithEshaYoutube/AceMed_AI) | AI-powered MDCAT preparation platform with fine-tuned LLaMA models and adaptive learning. |
+| 2 | [**Sentinel AI**](https://github.com/codewithEshaYoutube/SENTINEL-AI) | Edge AI surveillance system with real-time reasoning and explainable threat detection. |
+| 3 | [**QuantTrade Lite**](https://github.com/codewithEshaYoutube/QuantTrader_Lite) | Autonomous AI crypto trading agent with explainable decisions and live dashboard. |
+| 4 | [**VHeal AI**](https://github.com/codewithEshaYoutube/Vheal_AI) | Agentic AI hospital discharge copilot reducing delays and improving coordination. |
+| 5 | [**Research Agentic AI**](https://github.com/codewithEshaYoutube/agentic-research-gap-finder) | AI assistant that summarizes papers, finds gaps, and suggests future research directions. |
+| 6 | [**GitHub Streak Studio**](https://github.com/codewithEshaYoutube/Github_Streak) | GitHub analytics dashboard for streaks, stats, and visual embeds. |
+| 7 | [**Wave Tracker**](https://github.com/codewithEshaYoutube/wave-tracker) | AI-based mobile network analysis tool for tower performance optimization. |
+| 8 | [**FinWhisper**](https://github.com/codewithEshaYoutube/FinWhisper) | AI system for detecting financial workflow errors and automating compliance checks. |
+| 9 | [**FinAura**](https://github.com/codewithEshaYoutube/FinAura) | Agentic AI financial assistant for fraud detection and automated decision-making. |
+| 10 | [**NeuroScreen AI**](https://github.com/codewithEshaYoutube/NeuroScreen_AI) | AI tool for early detection of depression and cognitive decline. |
+| 11 | [**LinkAura**](https://github.com/codewithEshaYoutube/LinkAura) | AI-powered LinkedIn growth strategist for content and engagement optimization. |
+| 12 | [**Agentica**](https://github.com/codewithEshaYoutube/Agentica) | Multi-agent AI orchestration platform for automating workflows. |
+| 13 | [**ReplyMate AI**](https://github.com/codewithEshaYoutube/ReplyMate-Agent) | NLP-based WhatsApp assistant for fraud detection and intelligent replies. |
+| 14 | [**GraniteFit AI**](https://github.com/codewithEshaYoutube/GraniteFit_AI) | AI productivity and health assistant with predictive insights. |
+| 15 | [**Smart Space Habitat Manager**](https://github.com/codewithEshaYoutube/smart_spacehabit_management) | AI system for monitoring astronaut health and predicting failures in space habitats. |
+| 16 | [**AgriVerse (NASA)**](https://github.com/codewithEshaYoutube/NASA_SPACE_APP_CHALLENGE_2025) | AI-powered farming simulator using NASA satellite data for sustainable agriculture. |
+----
 ## Completed International Hackathons🥇
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2px;">
