@@ -15,10 +15,7 @@
          alt="I am Eesha Tariq  | Tech Trainer | Software Engineer" />
     
 </h1>
-
-  
-
-  
+ 
 <div align="center"> 
 
   <a href="mailto:tariqeesha321@gmail.com">
