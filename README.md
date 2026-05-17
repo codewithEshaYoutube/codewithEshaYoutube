@@ -60,8 +60,7 @@
 | <a href="https://www.linkedin.com/posts/esha-tariqdev_dsa-algorithms-coding-activity-7299145775840686081-xmXC" target="_blank" rel="noopener noreferrer">Data Structures for Beginners 1.0</a> | <b><a href="https://www.linkedin.com/posts/esha-tariqdev_dsasessions-learningjourney-gratitude-activity-7314356100860981248-nnb9" target="_blank" rel="noopener noreferrer">Completed</a></b> |
 
 
----
-
+--- 
 ## 🎓 STANFORD UNIVERSITY – Code in Place 2025
 
 | Role & Course                                                                                                         | Status | Credential |
