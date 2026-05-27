@@ -298,8 +298,10 @@ I am Eesha Tariq ,Software Engineering undergrad student.
 | 12 | [**Agentica**](https://github.com/codewithEshaYoutube/Agentica) | Multi-agent AI orchestration platform for automating workflows. |
 | 13 | [**ReplyMate AI**](https://github.com/codewithEshaYoutube/ReplyMate-Agent) | NLP-based WhatsApp assistant for fraud detection and intelligent replies. |
 | 14 | [**GraniteFit AI**](https://github.com/codewithEshaYoutube/GraniteFit_AI) | AI productivity and health assistant with predictive insights. |
-| 15 | [**Smart Space Habitat Manager**](https://github.com/codewithEshaYoutube/smart_spacehabit_management) | AI system for monitoring astronaut health and predicting failures in space habitats. |
-| 16 | [**AgriVerse (NASA)**](https://github.com/codewithEshaYoutube/NASA_SPACE_APP_CHALLENGE_2025) | AI-powered farming simulator using NASA satellite data for sustainable agriculture. |   can you add camsort   https://github.com/codewithEshaYoutube/CamSort       and then https://github.com/codewithEshaYoutube/CareSync-AI
+| 15 | [**Smart Space Habitat Manager**](https://github.com/codewithEshaYoutube/smart_spacehabit_management) | AI system for monitoring astronaut health and predicting space habitat failures. |
+| 16 | [**AgriVerse (NASA)**](https://github.com/codewithEshaYoutube/NASA_SPACE_APP_CHALLENGE_2025) | AI-powered farming simulator using NASA satellite data for sustainable agriculture. |
+| 17 | [**CamSort**](https://github.com/codewithEshaYoutube/CamSort) | AI-powered camera-based sorting system for intelligent classification and automation. |
+| 18 | [**CareSync AI**](https://github.com/codewithEshaYoutube/CareSync-AI) | Healthcare coordination AI system for improving patient care workflows and communication. |
 ## Completed International Hackathons🥇
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2px;">
