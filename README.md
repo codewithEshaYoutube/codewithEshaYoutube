@@ -83,7 +83,7 @@ I am Eesha Tariq ,Software Engineering undergrad student.
 - **[VHeal AI – RAISE Your Hack, Paris 2025](https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma/)** – Agentic AI hospital discharge co-pilot; Top 5 globally among 923 teams.  
 - **[FinAura – CS Girlies Hackathon](https://www.linkedin.com/posts/esha-tariqdev_finaura-fintech-agenticai-activity-7355858231094620160-c4SA)** – AI financial assistant for Gen Z; Winner, Chaotic Genius Award.  
 - **[AgriVerse – NASA Space Apps Challenge 2025](https://www.spaceappschallenge.org/2025/find-a-team/orbitx-engineers/?tab=project)** – AI for sustainable agriculture; Team OrbitX Engineers → [Project GitHub](https://github.com/codewithEshaYoutube/NASA_SPACE_APP_CHALLENGE_2025/).  
-- **[Agentic AI Hackathon Apps – Lablab.ai](https://lablab.ai/u/@eesha_tariq899)** – Participated in **15+ Internationl** AI hackathons, 2X international wins, using GPT-4, FastAPI, Redis, and Streamlit.  
+- **[Agentic AI Hackathon Apps – Lablab.ai](https://lablab.ai/u/@eesha_tariq899)** – Participated in **17+ Internationl** AI hackathons, 2X international wins, using GPT-4, FastAPI, Redis, and Streamlit.  
 
 ---
 
@@ -302,7 +302,7 @@ I am Eesha Tariq ,Software Engineering undergrad student.
 | 16 | [**AgriVerse (NASA)**](https://github.com/codewithEshaYoutube/NASA_SPACE_APP_CHALLENGE_2025) | AI-powered farming simulator using NASA satellite data for sustainable agriculture. |
 | 17 | [**CamSort**](https://github.com/codewithEshaYoutube/CamSort) | AI-powered camera-based sorting system for intelligent classification and automation. |
 | 18 | [**CareSync AI**](https://github.com/codewithEshaYoutube/CareSync-AI) | Healthcare coordination AI system for improving patient care workflows and communication. |
-## Completed International Hackathons🥇
+## Completed International Hackathons and & Competitions🥇
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2px;">
 
@@ -375,6 +375,12 @@ I am Eesha Tariq ,Software Engineering undergrad student.
   </a>
   <a href="https://www.linkedin.com/posts/esha-tariqdev_metahackercup-meta-competitiveprogramming-activity-7386712082752294915-8qS1?utm_source=share&utm_medium=member_desktop" target="_blank">
     <img src="gemini_hackathon.png"  height ="100%" width="30%" alt="Gemini Hackathon">
+  </a>
+   <a href="https://www.linkedin.com/posts/esha-tariqdev_artificialintelligence-healthcareai-machinelearning-activity-7466687611185745920-NT_O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w" target="_blank">
+    <img src="web-data-hack.jpg" width="30%" alt="IBM Watson Hackathon">
+  </a>
+  <a href="https://www.linkedin.com/posts/esha-tariqdev_ai-artificialintelligence-hackathon-activity-7460598565950808065-0jAf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w" target="_blank">
+    <img src="ai-agent-olympic-hack.jpg"  height ="100%" width="30%" alt="Gemini Hackathon">
   </a>
 
 </div>
