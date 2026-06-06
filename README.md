@@ -59,8 +59,6 @@
 | <a href="https://github.com/codewithEshaYoutube/2pm_Mastering_DSA_For_Beginners_Course/blob/main/README.md" target="_blank" rel="noopener noreferrer">2PM Mastertering DSA For Beginners Course</a> |  <b><a href="https://www.linkedin.com/posts/esha-tariqdev_dsa-python-codewithesha-activity-7350173195594825728-4q4i">Completed</a></b> |
 | <a href="https://www.linkedin.com/posts/esha-tariqdev_dsa-algorithms-coding-activity-7299145775840686081-xmXC" target="_blank" rel="noopener noreferrer">Data Structures for Beginners 1.0</a> | <b><a href="https://www.linkedin.com/posts/esha-tariqdev_dsasessions-learningjourney-gratitude-activity-7314356100860981248-nnb9" target="_blank" rel="noopener noreferrer">Completed</a></b> |
 
-
---- 
 ## 🎓 STANFORD UNIVERSITY – Code in Place 2025
 
 | Role & Course                                                                                                         | Status | Credential |
@@ -73,13 +71,28 @@
 
 
 ---
-I am Eesha Tariq ,Software Engineering undergrad student.
+I'm **Eesha Tariq** — a Software Engineering undergrad from 🇵🇰 Pakistan who builds AI systems, teaches code, and competes globally.
+
+## 🏆 Highlights
+
+| Achievement | Details |
+|---|---|
+| 🥇 Harvard CS50x Puzzle Day 2025 | **1st Place Globally** — solved all 9/9 puzzles |
+| 🌍 Meta Hacker Cup 2025 | Advanced Round — **Top 5% worldwide** |
+| 🚀 RAISE Your Hack Paris 2025 | VHeal AI — **Top 5 globally** among 923 teams |
+| 🏅 Advent of Code 2025 | 24/24 stars — **Top 18 internationally, Top 3 nationally (Females)** |
+| 🎓 Stanford Code in Place 2025 | Selected as **Section Leader** — taught 100+ students worldwide |
+| 🤝 17+ International Hackathons | **2× International Winner** |
+| ⭐ GitHub | **Top 11 Pakistani contributor** — 420+ consecutive days |
 
 
+--- 
 
 
 ## Research & AI Projects
-- **[MIT Critical Data Lab](https://mitbih.github.io/)** – Conducted research on predictive healthcare using multi-modal clinical datasets and LLM pipelines.  
+
+- **[MIT Critical Data Lab](https://mitbih.github.io/)** – Conducted research on predictive healthcare using multi-modal clinical datasets and LLM pipelines.
+- **📄 Co-authored Research Paper** — *[Predictive Performance of Graph Neural Networks Integrating Genetic Variants and Single-Cell Transcriptomic Data for Alzheimer's Disease](https://mitbih.github.io/)* — Applied GNNs to integrate multi-modal genomic and transcriptomic data for early Alzheimer's prediction.
 - **[VHeal AI – RAISE Your Hack, Paris 2025](https://www.linkedin.com/posts/esha-tariqdev_raiseyourhack-aptivaai-vhealai-activity-7348811576713326593-Q0ma/)** – Agentic AI hospital discharge co-pilot; Top 5 globally among 923 teams.  
 - **[FinAura – CS Girlies Hackathon](https://www.linkedin.com/posts/esha-tariqdev_finaura-fintech-agenticai-activity-7355858231094620160-c4SA)** – AI financial assistant for Gen Z; Winner, Chaotic Genius Award.  
 - **[AgriVerse – NASA Space Apps Challenge 2025](https://www.spaceappschallenge.org/2025/find-a-team/orbitx-engineers/?tab=project)** – AI for sustainable agriculture; Team OrbitX Engineers → [Project GitHub](https://github.com/codewithEshaYoutube/NASA_SPACE_APP_CHALLENGE_2025/).  
