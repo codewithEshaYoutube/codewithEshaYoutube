@@ -68,7 +68,7 @@
 
 
 ## About me
-I'm **Eesha Tariq** — a Software Engineering undergrad from 🇵🇰 Pakistan who builds AI systems, teaches code, and competes globally. I've shipped agentic AI projects, logged **1,500+ hours teaching coding worldwide** and guided 20+  **women in tech*.
+I'm **Eesha Tariq** — a Software Engineering undergrad from 🇵🇰 Pakistan who builds AI systems, teaches code, and competes globally. I've shipped agentic AI projects, logged **1,500+ hours teaching coding worldwide** and guided 30+**Womens in Tech** to get into hackahthons and competitions.
 ## 🏆 Highlights
 
 | Achievement | Details |
