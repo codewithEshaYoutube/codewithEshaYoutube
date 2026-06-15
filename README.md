@@ -79,7 +79,6 @@ I'm **Eesha Tariq** — a Software Engineering undergrad from 🇵🇰 Pakistan 
 | 🏅 Advent of Code 2025 | 24/24 stars — **Top 18 internationally, Top 3 nationally (Females)** |
 | 🎓 Stanford Code in Place 2025 | Selected as **Section Leader** — taught 100+ students worldwide |
 | 🤝 17+ International Hackathons | **2× International Winner** |
-| ⭐ GitHub | **Top 11 Pakistani contributor** — 420+ consecutive days |
 
 
 --- 
