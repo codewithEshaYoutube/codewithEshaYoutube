@@ -273,10 +273,13 @@ I'm **Eesha Tariq** — a Software Engineering undergrad from 🇵🇰 Pakistan 
 <!-- GitHub Stats -->
 
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=codewithEshaYoutube&theme=tokyonight" />
+
 </a>
 
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithEshaYoutube&show_icons=true&locale=en&layout=demo&theme=React&hide_border=true" />
+
+  
+</p>
 </div>
 
 ---
