@@ -277,7 +277,6 @@ I'm **Eesha Tariq** — a Software Engineering undergrad from 🇵🇰 Pakistan 
 
 </a>
 
-<img id="streak" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithEshaYoutube&show_icons=true&locale=en&layout=demo&theme=React&hide_border=true" />
 
   
 </p>
