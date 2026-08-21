@@ -265,12 +265,14 @@ I'm **Eesha Tariq** — a Software Engineering undergrad from 🇵🇰 Pakistan 
 
 <!-- GitHub General Stats -->
 <img width="65%" src="https://github-stats-mu-nine.vercel.app/api?username=codewithEshaYoutube&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=react&hide_border=true" alt="GitHub Stats"/>
+<a href="https://github.com/codewithEshaYoutube" target="_blank">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=codewithEshaYoutube&theme=dark" alt="🔥 Streak - codewithEshaYoutube" />
+<div align="center">
 
-<!-- Top Languages -->
+</a><!-- Top Languages -->
 <img width="33%" src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=codewithEshaYoutube&theme=react&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
 
 
-<div align="center">
 
 <!-- GitHub Stats -->
 
