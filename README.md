@@ -291,7 +291,7 @@ I'm **Eesha Tariq** — a Software Engineering undergrad from 🇵🇰 Pakistan 
 
 ---
 
-## Projects I Built
+## Projects I Built 
 
 | # | Project Name | Description |
 |---|-------------|-------------|
